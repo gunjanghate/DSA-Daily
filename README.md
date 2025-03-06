@@ -44,3 +44,11 @@ Stay tuned for daily updates! 🚀
 - 💻 [LeetCode](https://leetcode.com/)  
 
 Happy Coding! 🎯✨  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
