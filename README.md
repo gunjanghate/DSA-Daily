@@ -1,29 +1,6 @@
 # 🚀 DSA-Daily - Journey to Mastering Data Structures & Algorithms  
 
 This repository documents my **daily progress** in solving **DSA problems**, starting with fundamental concepts and advancing towards more complex challenges.  
-
----
-
-## 📅 **Day 1: Basic Math Problems (Completed ✅)**  
-- **Topics Covered:** Number operations, divisibility, prime checking, GCD.  
-- **Key Learnings:** Used loops, modulus, and division efficiently; optimized prime checking using **√N**.  
-
----
-
-## 📅 **Day 2: Recursion Basics (Completed ✅)**  
-- **Topics Covered:** Printing patterns, factorial, sum, Fibonacci, palindrome check using recursion.  
-- **Key Learnings:** Understood base cases, recursion flow, and implemented recursive reversal of arrays & strings.  
-
----
-
-## 📅 **Day 3: Basic Hashing (Completed ✅)**  
-- **Topics Covered:** Hashing theory, frequency counting, highest/lowest frequency element.  
-- **Problems Solved:**  
-  1. **Hashing Theory** (Concepts of hashing)  
-  2. **Counting frequencies of array elements**  
-  3. **Finding the highest/lowest frequency element**  
-- **Key Learnings:** Learned **hash maps & frequency arrays**, applied hashing for efficient lookups.  
-
 ---
 
 ## 📊 **Progress Tracker**  
@@ -32,7 +9,8 @@ This repository documents my **daily progress** in solving **DSA problems**, sta
 | 1️⃣  | Basic Maths Problems | ✅ Completed |
 | 2️⃣  | Recursion Basics | ✅ Completed |
 | 3️⃣  | Basic Hashing | ✅ Completed |
-| 4️⃣  | (Next Topic) | 🔄 In Progress |
+| 4️⃣  | Sorting | ✅ Completed |
+| 5️⃣  | (Next Topic) | 🔄 In Progress |
 
 Stay tuned for daily updates! 🚀  
 
