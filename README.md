@@ -30,6 +30,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0007-reverse-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1013-fibonacci-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/gunjanghate/DSA-Daily/tree/master/2610-closest-prime-numbers-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/gunjanghate/DSA-Daily/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
