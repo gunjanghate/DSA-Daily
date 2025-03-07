@@ -50,4 +50,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
