@@ -39,6 +39,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gunjanghate/DSA-Daily/tree/master/0125-valid-palindrome) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gunjanghate/DSA-Daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +60,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/gunjanghate/DSA-Daily/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gunjanghate/DSA-Daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
