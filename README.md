@@ -39,6 +39,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gunjanghate/DSA-Daily/tree/master/0125-valid-palindrome) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gunjanghate/DSA-Daily/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gunjanghate/DSA-Daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
@@ -63,5 +64,6 @@ Happy Coding! 🎯✨
 ## Sliding Window
 |  |
 | ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gunjanghate/DSA-Daily/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gunjanghate/DSA-Daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
