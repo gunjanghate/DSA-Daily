@@ -35,6 +35,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gunjanghate/DSA-Daily/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Happy Coding! 🎯✨
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Number Theory
 |  |
