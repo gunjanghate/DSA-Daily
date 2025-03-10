@@ -57,6 +57,7 @@ Happy Coding! 🎯✨
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Number Theory
@@ -68,4 +69,8 @@ Happy Coding! 🎯✨
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gunjanghate/DSA-Daily/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gunjanghate/DSA-Daily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
