@@ -60,6 +60,7 @@ Happy Coding! 🎯✨
 | [0136-single-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Number Theory
 |  |
 | ------- |
@@ -73,4 +74,12 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
