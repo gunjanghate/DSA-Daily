@@ -34,6 +34,7 @@ Happy Coding! 🎯✨
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/gunjanghate/DSA-Daily/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0283-move-zeroes) |
 ## String
@@ -58,6 +59,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -87,4 +89,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
