@@ -57,6 +57,7 @@ Happy Coding! 🎯✨
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -82,4 +83,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
