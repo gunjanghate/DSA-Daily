@@ -46,6 +46,7 @@ Happy Coding! 🎯✨
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -59,6 +60,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gunjanghate/DSA-Daily/tree/master/0169-majority-element) |
@@ -100,5 +102,6 @@ Happy Coding! 🎯✨
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gunjanghate/DSA-Daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
