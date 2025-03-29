@@ -28,6 +28,7 @@ Happy Coding! 🎯✨
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0054-spiral-matrix) |
@@ -99,4 +100,12 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
