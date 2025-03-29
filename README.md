@@ -41,10 +41,12 @@ Happy Coding! 🎯✨
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjanghate/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -93,4 +95,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
