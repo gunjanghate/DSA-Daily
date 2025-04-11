@@ -110,6 +110,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
+| [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
 | ------- |
@@ -136,4 +137,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
