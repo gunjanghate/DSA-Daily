@@ -98,6 +98,7 @@ Happy Coding! 🎯✨
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
+| [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gunjanghate/DSA-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Union Find
@@ -114,6 +115,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
+| [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
