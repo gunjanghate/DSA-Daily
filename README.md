@@ -33,6 +33,7 @@ Happy Coding! 🎯✨
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjanghate/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
@@ -63,6 +64,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -95,6 +97,7 @@ Happy Coding! 🎯✨
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
