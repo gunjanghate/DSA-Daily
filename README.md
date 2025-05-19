@@ -38,6 +38,7 @@ Happy Coding! 🎯✨
 | [0128-longest-consecutive-sequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -100,6 +101,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -128,6 +130,7 @@ Happy Coding! 🎯✨
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
@@ -158,6 +162,7 @@ Happy Coding! 🎯✨
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 ## Counting
 |  |
