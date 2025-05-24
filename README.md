@@ -50,6 +50,7 @@ Happy Coding! 🎯✨
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/gunjanghate/DSA-Daily/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gunjanghate/DSA-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/gunjanghate/DSA-Daily/tree/master/3430-count-days-without-meetings) |
@@ -148,6 +149,7 @@ Happy Coding! 🎯✨
 | [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/gunjanghate/DSA-Daily/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
+| [3194-find-words-containing-character](https://github.com/gunjanghate/DSA-Daily/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
