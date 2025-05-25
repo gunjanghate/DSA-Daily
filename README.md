@@ -141,6 +141,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3321-type-of-triangle) |
@@ -155,6 +156,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gunjanghate/DSA-Daily/tree/master/0162-find-peak-element) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
