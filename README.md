@@ -10,7 +10,8 @@ This repository documents my **daily progress** in solving **DSA problems**, sta
 | 2️⃣  | Recursion Basics | ✅ Completed |
 | 3️⃣  | Basic Hashing | ✅ Completed |
 | 4️⃣  | Sorting | ✅ Completed |
-| 5️⃣  | Array | 🔄 In Progress |
+| 5️⃣  | Array |  ✅ Completed |
+| 6️⃣  | Binary Search | 🔄 In Progress |
 
 Stay tuned for daily updates! 🚀  
 
