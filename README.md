@@ -44,6 +44,7 @@ Happy Coding! 🎯✨
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -163,6 +164,7 @@ Happy Coding! 🎯✨
 | [0162-find-peak-element](https://github.com/gunjanghate/DSA-Daily/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
