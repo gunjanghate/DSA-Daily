@@ -147,6 +147,7 @@ Happy Coding! 🎯✨
 | [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3321-type-of-triangle) |
 ## String
 |  |
