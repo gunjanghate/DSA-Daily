@@ -7,7 +7,13 @@ public:
         int high = arr.size() - 1;
         while (low <= high) {
             int mid = (low + high) / 2;
+            // 0  1  2  3  4
+            //[2, 3, 4, 7, 11]//current
+            //[1, 2, 3, 4, 5]//expected
+            // eg., at mid = 2, 4 is present as we can see 1 is missing
+            //so total number of missings are 1
             int missing = arr[mid] - (mid + 1);
+            // in this way we are finding how much are missing
             if (missing < k)
                 low = mid + 1;
             else
