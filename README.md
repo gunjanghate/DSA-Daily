@@ -42,6 +42,7 @@ Happy Coding! 🎯✨
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gunjanghate/DSA-Daily/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
+| [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -127,6 +128,7 @@ Happy Coding! 🎯✨
 | [0128-longest-consecutive-sequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
+| [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
@@ -160,6 +162,7 @@ Happy Coding! 🎯✨
 | [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/gunjanghate/DSA-Daily/tree/master/0038-count-and-say) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
+| [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [3194-find-words-containing-character](https://github.com/gunjanghate/DSA-Daily/tree/master/3194-find-words-containing-character) |
 ## Binary Search
