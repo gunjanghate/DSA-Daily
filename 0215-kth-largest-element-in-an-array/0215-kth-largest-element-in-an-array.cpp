@@ -14,22 +14,24 @@
 //         }
 
 //         return -1;
-        
+
 //     }
 // }; O(NLogN)
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-       priority_queue<int> pq;
-       k = nums.size() - k + 1;
-       for(int n : nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        priority_queue<int> pq;
+        k = nums.size() - k + 1;
+        for (int n : nums) {
             if (pq.size() == k && pq.top() > n) {
                 pq.pop();
             }
             if (pq.size() < k) {
                 pq.push(n);
             }
-       }
-    return pq.top();
+        }
+        return pq.top();
     }
 };
