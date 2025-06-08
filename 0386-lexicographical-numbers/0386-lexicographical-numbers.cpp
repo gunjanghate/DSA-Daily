@@ -1,21 +1,21 @@
 class Solution {
 public:
-
-    void solve(int i, int n,vector<int> &v){
-
-        if(i>n) return;
-        v.push_back(i);
-        for(int j=0;j<=9;j++){
-            solve(i*10+j,n,v);
-        }
-    }
     vector<int> lexicalOrder(int n) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
 
         vector<int> ans;
-        for(int i=1;i<10;i++){
-            solve(i,n,ans);
+        int curr = 1;
+        for (int i = 0; i < n; i++) {
+           ans.push_back(curr);
+           if(curr*10<=n){
+            curr*=10;
+           }else{
+            if(curr>=n) curr/=10;
+            curr++;
+            while(curr%10==0) curr/=10;
+            
+           } 
         }
         return ans;
     }
