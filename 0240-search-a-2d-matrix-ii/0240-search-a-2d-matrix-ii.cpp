@@ -5,11 +5,12 @@ public:
         cin.tie(NULL);
         int n = matrix.size();
         int m = matrix[0].size();
-        for (int i = 0; i < n; i++) {
-            if (target >= matrix[i][0] && matrix[i][m-1]>=target) {
-                if (binary_search(matrix[i].begin(), matrix[i].end(), target))
-                    return true;
-            }
+        int row = 0;
+        int col = m-1;
+        while(row<n && col>=0){
+            if(matrix[row][col]==target) return true;
+            else if(matrix[row][col]<target) row++;
+            else col--;
         }
 
         return false;
