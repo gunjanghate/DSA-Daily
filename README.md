@@ -62,6 +62,7 @@ Happy Coding! 🎯✨
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/gunjanghate/DSA-Daily/tree/master/2737-row-with-maximum-ones) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -198,6 +199,7 @@ Happy Coding! 🎯✨
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1646-kth-missing-positive-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Happy Coding! 🎯✨
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
