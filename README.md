@@ -56,6 +56,7 @@ Happy Coding! 🎯✨
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2047-find-a-peak-element-ii) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
