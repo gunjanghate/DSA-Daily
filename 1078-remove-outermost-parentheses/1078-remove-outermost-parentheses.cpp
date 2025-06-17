@@ -3,24 +3,33 @@ public:
     string removeOuterParentheses(string s) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
+        string ans;
+        stack<char> st;
+        int sz = 0;
+        for (int i = 0; s[i] != '\0'; i++) {
+            if (s[i] == '(') {
+                if (sz == 0) {
+                    st.push(s[i]);
+                    sz++;
+                } else {
+                    st.push(s[i]);
+                    sz++;
+                    ans += s[i];
+                }
+            }
 
-        vector<string> primitives;
-        int open = 0, startIndex = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == '(')
-                open++;
-            else if (s[i] == ')')
-                open--;
+            else if (s[i] == ')') {
+                if (sz > 1) {
+                    st.pop();
+                    sz--;
+                    ans += s[i];
 
-            if (open == 0) {
-                string primitive = s.substr(startIndex + 1, i - startIndex - 1);
-                primitives.push_back(primitive);
-                startIndex = i + 1;
+                } else {
+                    st.pop();
+                    sz--;
+                }
             }
         }
-        string ans = "";
-        for (auto i : primitives)
-            ans += i;
 
         return ans;
     }
