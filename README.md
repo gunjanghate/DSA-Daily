@@ -70,6 +70,7 @@ Happy Coding! 🎯✨
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/gunjanghate/DSA-Daily/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gunjanghate/DSA-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/gunjanghate/DSA-Daily/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -133,6 +134,7 @@ Happy Coding! 🎯✨
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/gunjanghate/DSA-Daily/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -227,6 +229,7 @@ Happy Coding! 🎯✨
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gunjanghate/DSA-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Heap (Priority Queue)
 |  |
