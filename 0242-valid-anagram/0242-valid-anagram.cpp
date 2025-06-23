@@ -1,9 +1,25 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
-        if(s==t) return true;
-        return false;
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL); 
+        if (s.length() != t.length()) {
+            return false;
+        }
+
+        unordered_map<char, int> counter;
+
+        for (char ch : s) {
+            counter[ch]++;
+        }
+
+        for (char ch : t) {
+            if (counter.find(ch) == counter.end() || counter[ch] == 0) {
+                return false;
+            }
+            counter[ch]--;
+        }
+
+        return true;        
     }
 };
