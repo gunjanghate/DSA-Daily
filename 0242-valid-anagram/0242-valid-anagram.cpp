@@ -2,24 +2,24 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         ios_base::sync_with_stdio(false);
-        cin.tie(NULL); 
+        cin.tie(NULL);
         if (s.length() != t.length()) {
             return false;
         }
 
-        unordered_map<char, int> counter;
+        vector<int> count(26, 0);
 
-        for (char ch : s) {
-            counter[ch]++;
+        for (char c : s) {
+            count[c - 'a'] ++;
         }
 
-        for (char ch : t) {
-            if (counter.find(ch) == counter.end() || counter[ch] == 0) {
+        for (char c : t) {
+            if (count[c - 'a'] == 0) {
                 return false;
             }
-            counter[ch]--;
+            count[c - 'a'] --;
         }
 
-        return true;        
+        return true;
     }
 };
