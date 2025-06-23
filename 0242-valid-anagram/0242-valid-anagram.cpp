@@ -1,25 +1,17 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
         if (s.length() != t.length()) {
             return false;
         }
 
-        vector<int> count(26, 0);
+        unordered_map<char, int> sCount, tCount;
 
-        for (char c : s) {
-            count[c - 'a'] ++;
+        for (int i = 0; i < s.length(); i++) {
+            sCount[s[i]] = 1 + sCount[s[i]];
+            tCount[t[i]] = 1 + tCount[t[i]];
         }
 
-        for (char c : t) {
-            if (count[c - 'a'] == 0) {
-                return false;
-            }
-            count[c - 'a'] --;
-        }
-
-        return true;
+        return sCount == tCount;        
     }
 };
