@@ -134,6 +134,7 @@ Happy Coding! 🎯✨
 | [0215-kth-largest-element-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
@@ -152,6 +153,7 @@ Happy Coding! 🎯✨
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
@@ -199,6 +201,7 @@ Happy Coding! 🎯✨
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
@@ -252,6 +255,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 ## Counting
@@ -259,6 +263,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -287,4 +292,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
