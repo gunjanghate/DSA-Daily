@@ -63,6 +63,7 @@ Happy Coding! 🎯✨
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
@@ -142,6 +143,7 @@ Happy Coding! 🎯✨
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -193,6 +195,7 @@ Happy Coding! 🎯✨
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gunjanghate/DSA-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -251,6 +254,7 @@ Happy Coding! 🎯✨
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gunjanghate/DSA-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
