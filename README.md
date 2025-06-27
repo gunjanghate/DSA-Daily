@@ -153,6 +153,7 @@ Happy Coding! 🎯✨
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gunjanghate/DSA-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/gunjanghate/DSA-Daily/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
@@ -191,6 +192,7 @@ Happy Coding! 🎯✨
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gunjanghate/DSA-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
@@ -207,6 +209,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/gunjanghate/DSA-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/gunjanghate/DSA-Daily/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
