@@ -1,22 +1,17 @@
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
+        sort(nums.begin(), nums.end());
+        int j = 0, maxLength = 0;
 
-        map<int, int> mp;
-        for (auto i : nums)
-            mp[i]++;
-        if (mp.size() < 2)
-            return 0;
-        int cnt = 0, ans = 0;
-        for (auto it = mp.begin(); next(it) != mp.end(); ++it) {
-            auto next_it = next(it);
-            if (abs(it->first - next_it->first) == 1) {
-                cnt = it->second + next_it->second;
-                ans = max(ans, cnt);
+        for (int i = 0; i < nums.size(); ++i) {
+            while (nums[i] - nums[j] > 1) {
+                ++j;
+            }
+            if (nums[i] - nums[j] == 1) {
+                maxLength = max(maxLength, i - j + 1);
             }
         }
-        return ans;
+        return maxLength;
     }
 };
