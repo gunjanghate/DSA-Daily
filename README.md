@@ -50,6 +50,7 @@ Happy Coding! 🎯✨
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -124,6 +125,7 @@ Happy Coding! 🎯✨
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gunjanghate/DSA-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -144,6 +146,7 @@ Happy Coding! 🎯✨
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/gunjanghate/DSA-Daily/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -172,6 +175,7 @@ Happy Coding! 🎯✨
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -290,6 +294,7 @@ Happy Coding! 🎯✨
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
