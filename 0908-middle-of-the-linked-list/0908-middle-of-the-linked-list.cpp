@@ -9,34 +9,41 @@
  * };
  */
 class Solution {
-private:
-    int sizeOfLL(ListNode*head){
-        ListNode* temp = head;
-        int size = 0;
-        while(temp!=NULL){
-            size++;
-            temp = temp->next;
-        }
+// private:
+//     int sizeOfLL(ListNode*head){
+//         ListNode* temp = head;
+//         int size = 0;
+//         while(temp!=NULL){
+//             size++;
+//             temp = temp->next;
+//         }
 
-        return size;
-    }
+//         return size;
+//     }
 public:
     ListNode* middleNode(ListNode* head) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        
-        int n = sizeOfLL(head);
-        int mid = n/2 + 1;
-        ListNode* temp = head;
+
+        // int n = sizeOfLL(head);
+        // int mid = n/2 + 1;
+        // ListNode* temp = head;
+        ListNode* slow = head;
+        ListNode* fast = head;
         int cnt = 0;
-        while(temp!=NULL){
-            cnt++;
-            if(cnt==mid){
-                break;
-            }
-            temp = temp->next;
+        // while(temp!=NULL){
+        //     cnt++;
+        //     if(cnt==mid){
+        //         break;
+        //     }
+        //     temp = temp->next;
+        // }
+        while(fast!=NULL  && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        return temp;
+        // return temp;
+        return slow;
     }
 };
