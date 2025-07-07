@@ -215,6 +215,7 @@ Happy Coding! 🎯✨
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/gunjanghate/DSA-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
@@ -355,10 +356,12 @@ Happy Coding! 🎯✨
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0002-add-two-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
