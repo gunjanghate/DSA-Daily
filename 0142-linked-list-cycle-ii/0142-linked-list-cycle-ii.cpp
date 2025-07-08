@@ -8,22 +8,17 @@
  */
 class Solution {
 private:
-    bool hasCycle(ListNode* head) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        if (head == nullptr || head->next == nullptr)
-            return false;
+    bool isMeeting(ListNode*& slow, ListNode*& fast,
+                              ListNode* head) {
 
-        ListNode* slow = head;
-        ListNode* fast = head->next->next;
-
-        while (slow != fast) {
-            if (fast == nullptr || fast->next == nullptr)
-                return false;
+        while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
+            if (slow == fast)
+                return true;
         }
-        return true;
+
+        return false;
     }
 
 public:
@@ -33,22 +28,17 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while (fast != NULL && fast->next != NULL) {
+        if(isMeeting(slow, fast, head)){
 
+        slow = head;
+        while (slow != fast) {
             slow = slow->next;
-
-            fast = fast->next->next;
-            if (slow == fast) {
-                slow = head;
-                while (slow != fast) {
-                    slow = slow->next;
-                    fast = fast->next;
-                }
-
-                return slow;
-            }
+            fast = fast->next;
+        }
+        return slow;
         }
 
         return NULL;
+
     }
 };
