@@ -7,19 +7,7 @@
  * };
  */
 class Solution {
-private:
-    bool isMeeting(ListNode*& slow, ListNode*& fast,
-                              ListNode* head) {
-
-        while (fast && fast->next) {
-            slow = slow->next;
-            fast = fast->next->next;
-            if (slow == fast)
-                return true;
-        }
-
-        return false;
-    }
+ 
 
 public:
     ListNode* detectCycle(ListNode* head) {
@@ -28,17 +16,22 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
-        if(isMeeting(slow, fast, head)){
+        while (fast != NULL && fast->next != NULL) {
 
-        slow = head;
-        while (slow != fast) {
             slow = slow->next;
-            fast = fast->next;
-        }
-        return slow;
+
+            fast = fast->next->next;
+            if (slow == fast) {
+                slow = head;
+                while (slow != fast) {
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+
+                return slow;
+            }
         }
 
         return NULL;
-
     }
 };
