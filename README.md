@@ -226,6 +226,7 @@ Happy Coding! 🎯✨
 | [0012-integer-to-roman](https://github.com/gunjanghate/DSA-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/gunjanghate/DSA-Daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -365,6 +366,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/gunjanghate/DSA-Daily/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
