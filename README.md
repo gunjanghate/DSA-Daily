@@ -239,6 +239,7 @@ Happy Coding! 🎯✨
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/gunjanghate/DSA-Daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gunjanghate/DSA-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -266,6 +267,7 @@ Happy Coding! 🎯✨
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/gunjanghate/DSA-Daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2346-largest-3-same-digit-number-in-string) |
