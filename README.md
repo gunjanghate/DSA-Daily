@@ -381,6 +381,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/gunjanghate/DSA-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/gunjanghate/DSA-Daily/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -389,6 +390,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0002-add-two-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/gunjanghate/DSA-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gunjanghate/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
