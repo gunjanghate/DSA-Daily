@@ -191,6 +191,7 @@ Happy Coding! 🎯✨
 | [0041-first-missing-positive](https://github.com/gunjanghate/DSA-Daily/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/gunjanghate/DSA-Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gunjanghate/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
@@ -396,6 +397,7 @@ Happy Coding! 🎯✨
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gunjanghate/DSA-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/gunjanghate/DSA-Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gunjanghate/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
