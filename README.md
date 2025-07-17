@@ -371,6 +371,7 @@ Happy Coding! 🎯✨
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/gunjanghate/DSA-Daily/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -412,5 +413,6 @@ Happy Coding! 🎯✨
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/gunjanghate/DSA-Daily/tree/master/0155-min-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
