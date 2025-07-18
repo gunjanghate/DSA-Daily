@@ -51,6 +51,7 @@ Happy Coding! 🎯✨
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
@@ -168,6 +169,7 @@ Happy Coding! 🎯✨
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/gunjanghate/DSA-Daily/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -240,6 +242,7 @@ Happy Coding! 🎯✨
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gunjanghate/DSA-Daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
