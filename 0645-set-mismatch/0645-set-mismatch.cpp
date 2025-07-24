@@ -1,26 +1,21 @@
+
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        int a = 0, b = 0;
-        map<int,int> mp;
-        for(auto i : nums) mp[i]++;
-        // finding missing in array
-        for(int i = 0; i<nums.size(); i++){
-            if(mp.find(i+1)==mp.end()){
-                b = i+1;
-                break;
-            }
+        int n =nums.size();
+        vector<int>v(n+1,0);
+        int missing=0,duplicate =0;
+        for(int i =0;i<n;i++){
+            v[nums[i]]++;
         }
-        // finding element with duplicate
-        for(auto [i,k] : mp){
-            if(k>1){
-                a = i;
-                break;
-            }
+        for(int i =1;i<v.size();i++){
+            if(v[i]==2)duplicate = i;
+            if(v[i]==0)missing = i;
         }
-
-        return {a,b};        
+        return {duplicate,missing};
     }
-};
+}; 
+
+
