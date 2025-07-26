@@ -1,6 +1,9 @@
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         sort(nums.begin(), nums.end());
         int j = 0, maxLength = 0;
 
