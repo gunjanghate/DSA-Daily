@@ -3,21 +3,21 @@ public:
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-
-        vector<bool> used(baskets.size(), false);
         int ans = 0;
-
-        for (int fruit : fruits) {
-            bool placed = false;
-            for (int j = 0; j < baskets.size(); j++) {
-                if (!used[j] && baskets[j] >= fruit) {
-                    used[j] = true;
-                    placed = true;
+        int f = 0;
+        for(int i = 0; i<fruits.size(); i++){
+            f = 0;
+            for(int j = 0; j<baskets.size(); j++){
+                if(baskets[j]==-1) continue;
+                if(fruits[i]<=baskets[j]){
+                    f = 1;
+                    baskets[j] = -1;
                     break;
                 }
             }
-            if (!placed) ans++;
+            if(!f) ans++;
         }
+
         return ans;
     }
 };
