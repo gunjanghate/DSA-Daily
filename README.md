@@ -154,6 +154,7 @@ Happy Coding! 🎯✨
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gunjanghate/DSA-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -279,6 +280,7 @@ Happy Coding! 🎯✨
 | [0050-powx-n](https://github.com/gunjanghate/DSA-Daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
@@ -449,6 +451,7 @@ Happy Coding! 🎯✨
 | [0002-add-two-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gunjanghate/DSA-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/gunjanghate/DSA-Daily/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
