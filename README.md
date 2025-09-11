@@ -65,6 +65,7 @@ Happy Coding! 🎯✨
 | [1137-height-checker](https://github.com/gunjanghate/DSA-Daily/tree/master/1137-height-checker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gunjanghate/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gunjanghate/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gunjanghate/DSA-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -292,6 +293,7 @@ Happy Coding! 🎯✨
 | [0342-power-of-four](https://github.com/gunjanghate/DSA-Daily/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gunjanghate/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
