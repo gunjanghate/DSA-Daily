@@ -1,37 +1,30 @@
 class Solution {
-    
 public:
-    bool isVowel(char c){
-        if(c=='a'|| c=='e'|| c=='i' || c=='o' || c=='u') return true;
-        return false;
+    bool isVowel(char c) {
+        return (c=='a'|| c=='e'|| c=='i' || c=='o' || c=='u');
     }
+
     int maxFreqSum(string s) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
 
-        map<char, int> mp1;
-        map<char, int> mp2;
+        vector<int> freq(26, 0);
 
-        for(int i = 0; i<s.length(); i++){
-            if(isVowel(s[i])){
-                mp1[s[i]]++;
-            }else{
-                mp2[s[i]]++;
-            }
+        for (char c : s) {
+            freq[c - 'a']++;
         }
 
         int mx1 = 0, mx2 = 0;
-
-        for(auto &[i, k]: mp1){
-            mx1 = max(mx1, k);
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) {
+                if (isVowel('a' + i)) {
+                    mx1 = max(mx1, freq[i]);
+                } else {
+                    mx2 = max(mx2, freq[i]);
+                }
+            }
         }
-        for(auto &[i, k]: mp2){
-            mx2 = max(mx2, k);
-        }
 
-
-        return mx1+mx2;
-
-        
+        return mx1 + mx2;
     }
 };
