@@ -134,6 +134,7 @@ Happy Coding! 🎯✨
 | [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gunjanghate/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
@@ -326,6 +327,7 @@ Happy Coding! 🎯✨
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/gunjanghate/DSA-Daily/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
