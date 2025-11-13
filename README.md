@@ -365,6 +365,7 @@ Happy Coding! 🎯✨
 | [3396-valid-word](https://github.com/gunjanghate/DSA-Daily/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gunjanghate/DSA-Daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gunjanghate/DSA-Daily/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -421,6 +422,7 @@ Happy Coding! 🎯✨
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gunjanghate/DSA-Daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Heap (Priority Queue)
@@ -445,6 +447,7 @@ Happy Coding! 🎯✨
 | [1510-find-lucky-integer-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gunjanghate/DSA-Daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gunjanghate/DSA-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
