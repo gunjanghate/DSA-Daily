@@ -1,6 +1,9 @@
 class Solution {
 public:
     long long maxOperations(string s) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         long long cnt = 0;
         long long ones = (s[0] == '1');
         int n = s.size();
