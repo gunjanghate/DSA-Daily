@@ -1,6 +1,8 @@
 class Solution {
 public:
     int countCollisions(string d) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         stack<char> s;
         int collisions = 0;
 
