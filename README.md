@@ -317,6 +317,7 @@ Happy Coding! 🎯✨
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gunjanghate/DSA-Daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/gunjanghate/DSA-Daily/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/gunjanghate/DSA-Daily/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -457,6 +458,7 @@ Happy Coding! 🎯✨
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/gunjanghate/DSA-Daily/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 ## Monotonic Queue
