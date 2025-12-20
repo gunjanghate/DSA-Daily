@@ -1,6 +1,9 @@
 class Solution {
 public:
     int minDeletionSize(vector<string>& strs) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
         int c = 0;
         int n = strs[0].length();
         int m = strs.size();
