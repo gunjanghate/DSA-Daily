@@ -51,6 +51,7 @@ Happy Coding! 🎯✨
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
@@ -147,6 +148,7 @@ Happy Coding! 🎯✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0908-middle-of-the-linked-list) |
@@ -217,6 +219,7 @@ Happy Coding! 🎯✨
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
@@ -259,6 +262,7 @@ Happy Coding! 🎯✨
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -403,6 +407,7 @@ Happy Coding! 🎯✨
 | [0209-minimum-size-subarray-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/gunjanghate/DSA-Daily/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
