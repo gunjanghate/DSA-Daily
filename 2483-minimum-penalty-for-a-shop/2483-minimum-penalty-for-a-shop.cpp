@@ -1,6 +1,8 @@
 class Solution {
 public:
     int bestClosingTime(string customers) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int penalty = 0;
 
         for (char c : customers) {
