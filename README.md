@@ -64,6 +64,7 @@ Happy Coding! 🎯✨
 | [0940-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
@@ -279,6 +280,7 @@ Happy Coding! 🎯✨
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gunjanghate/DSA-Daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
