@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minLength(vector<int>& nums, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         unordered_map<int,int>mp;
         int sum=0;
         int l=0,ans=INT_MAX;
