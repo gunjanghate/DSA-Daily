@@ -341,6 +341,7 @@ Happy Coding! 🎯✨
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gunjanghate/DSA-Daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/gunjanghate/DSA-Daily/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1922-count-good-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/gunjanghate/DSA-Daily/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -546,6 +547,7 @@ Happy Coding! 🎯✨
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/gunjanghate/DSA-Daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gunjanghate/DSA-Daily/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1922-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
