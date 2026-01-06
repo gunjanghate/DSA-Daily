@@ -511,6 +511,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0386-lexicographical-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -601,4 +602,16 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/3462-vowels-game-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
