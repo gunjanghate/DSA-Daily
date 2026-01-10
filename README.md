@@ -582,6 +582,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0022-generate-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/gunjanghate/DSA-Daily/tree/master/0077-combinations) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
 |  |
