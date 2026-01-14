@@ -512,6 +512,7 @@ Happy Coding! 🎯✨
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0386-lexicographical-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -523,6 +524,7 @@ Happy Coding! 🎯✨
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/gunjanghate/DSA-Daily/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
@@ -610,6 +612,7 @@ Happy Coding! 🎯✨
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -618,5 +621,6 @@ Happy Coding! 🎯✨
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
