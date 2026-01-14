@@ -4,19 +4,25 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
 
-        unordered_map<int,int> freq;
-        for (int n : nums) freq[n]++;
+        map<int, int> freq;
+        for (auto n : nums) freq[n]++;
+        int rem = k;
 
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>> pq;
-        for (auto &p : freq) {
-            pq.push({p.second, p.first});
-            if (pq.size() > k) pq.pop();
+        vector<pair<int,int>> arrOfPairs;
+        for(auto p : freq){
+            arrOfPairs.push_back({p.first, p.second});
         }
 
+        sort(arrOfPairs.begin(), arrOfPairs.end(), [](auto &a, auto &b){
+            return a.second>b.second;
+        });
+
         vector<int> ans;
-        while (!pq.empty()) {
-            ans.push_back(pq.top().second);
-            pq.pop();
+        for(auto i : arrOfPairs){
+            if(rem!=0){
+                ans.push_back(i.first);
+                rem--;
+            }
         }
         return ans;
     }
