@@ -61,6 +61,7 @@ Happy Coding! 🎯✨
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0944-delete-columns-to-make-sorted) |
@@ -425,6 +426,7 @@ Happy Coding! 🎯✨
 | [0278-first-bad-version](https://github.com/gunjanghate/DSA-Daily/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gunjanghate/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
