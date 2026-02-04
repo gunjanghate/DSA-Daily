@@ -631,4 +631,8 @@ Happy Coding! 🎯✨
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gunjanghate/DSA-Daily/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
