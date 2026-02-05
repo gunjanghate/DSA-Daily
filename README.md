@@ -118,6 +118,7 @@ Happy Coding! 🎯✨
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3379-transformed-array) |
 | [3430-count-days-without-meetings](https://github.com/gunjanghate/DSA-Daily/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -181,6 +182,7 @@ Happy Coding! 🎯✨
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/gunjanghate/DSA-Daily/tree/master/2886-faulty-keyboard) |
+| [3379-transformed-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
