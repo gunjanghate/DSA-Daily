@@ -129,6 +129,7 @@ Happy Coding! 🎯✨
 | [3637-trionic-array-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gunjanghate/DSA-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3790-fruits-into-baskets-ii) |
@@ -227,6 +228,7 @@ Happy Coding! 🎯✨
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gunjanghate/DSA-Daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -311,6 +313,7 @@ Happy Coding! 🎯✨
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gunjanghate/DSA-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -455,6 +458,7 @@ Happy Coding! 🎯✨
 | [0215-kth-largest-element-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -615,6 +619,7 @@ Happy Coding! 🎯✨
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
