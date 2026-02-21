@@ -63,6 +63,7 @@ Happy Coding! 🎯✨
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0904-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0944-delete-columns-to-make-sorted) |
@@ -214,6 +215,7 @@ Happy Coding! 🎯✨
 | [0209-minimum-size-subarray-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -298,6 +300,7 @@ Happy Coding! 🎯✨
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
+| [0904-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
