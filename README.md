@@ -181,6 +181,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/2048-build-array-from-permutation) |
 | [2211-count-collisions-on-a-road](https://github.com/gunjanghate/DSA-Daily/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -192,6 +193,7 @@ Happy Coding! 🎯✨
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/gunjanghate/DSA-Daily/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
@@ -344,6 +346,7 @@ Happy Coding! 🎯✨
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gunjanghate/DSA-Daily/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
@@ -386,6 +389,7 @@ Happy Coding! 🎯✨
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/gunjanghate/DSA-Daily/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
