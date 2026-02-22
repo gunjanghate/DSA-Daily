@@ -195,6 +195,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/gunjanghate/DSA-Daily/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
@@ -468,6 +469,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
