@@ -76,6 +76,7 @@ Happy Coding! 🎯✨
 | [1137-height-checker](https://github.com/gunjanghate/DSA-Daily/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gunjanghate/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gunjanghate/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -203,6 +204,7 @@ Happy Coding! 🎯✨
 | [0693-binary-number-with-alternating-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gunjanghate/DSA-Daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/gunjanghate/DSA-Daily/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gunjanghate/DSA-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -259,6 +261,7 @@ Happy Coding! 🎯✨
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/gunjanghate/DSA-Daily/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gunjanghate/DSA-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -527,6 +530,7 @@ Happy Coding! 🎯✨
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
