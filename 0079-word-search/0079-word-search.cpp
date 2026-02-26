@@ -1,48 +1,30 @@
 class Solution {
 public:
-    bool areWeGoingGood(string& s, string& word) {
-        if (s.length() > word.length())
+    bool dfs(vector<vector<char>>& board, string& word,
+             int row, int col, int index) {
+
+        if (index == word.length()) 
+            return true;
+
+        if (row < 0 || col < 0 ||
+            row >= board.size() ||
+            col >= board[0].size() ||
+            board[row][col] != word[index]) {
             return false;
-
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] != word[i]) {
-                return false;
-            }
-        }
-        return true;
-    }
-
-    void solve(bool& ans, int row, int col, vector<vector<char>>& board,
-               string& word, string s, vector<vector<bool>>& visited) {
-
-        // base conditions
-
-        if (row < 0 || col < 0 || row >= board.size() ||
-            col >= board[0].size() || visited[row][col]) {
-            return;
         }
 
-        s += board[row][col];
+        char temp = board[row][col];
+        board[row][col] = '#';  // mark visited
 
-        if (!areWeGoingGood(s, word)) {
-            return;
-        }
+        bool found =
+            dfs(board, word, row + 1, col, index + 1) ||
+            dfs(board, word, row - 1, col, index + 1) ||
+            dfs(board, word, row, col + 1, index + 1) ||
+            dfs(board, word, row, col - 1, index + 1);
 
-        if (s.length() == word.length()) {
-            ans = true;
-            return;
-        }
+        board[row][col] = temp;  // backtrack
 
-        visited[row][col] = true;
-
-        // recursion logic
-
-        solve(ans, row + 1, col, board, word, s, visited);
-        solve(ans, row - 1, col, board, word, s, visited);
-        solve(ans, row, col + 1, board, word, s, visited);
-        solve(ans, row, col - 1, board, word, s, visited);
-
-        visited[row][col] = false; // backtrack
+        return found;
     }
 
     bool exist(vector<vector<char>>& board, string word) {
@@ -51,12 +33,7 @@ public:
 
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-
-                vector<vector<bool>> visited(rows, vector<bool>(cols, false));
-                bool ans = false;
-                solve(ans, i, j, board, word, "", visited);
-
-                if (ans)
+                if (dfs(board, word, i, j, 0))
                     return true;
             }
         }
