@@ -40,6 +40,7 @@ Happy Coding! 🎯✨
 | [0073-set-matrix-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjanghate/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/gunjanghate/DSA-Daily/tree/master/0135-candy) |
@@ -347,6 +348,7 @@ Happy Coding! 🎯✨
 | [0054-spiral-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/gunjanghate/DSA-Daily/tree/master/1791-richest-customer-wealth) |
@@ -406,6 +408,7 @@ Happy Coding! 🎯✨
 | [0022-generate-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/gunjanghate/DSA-Daily/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/gunjanghate/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
@@ -560,6 +563,7 @@ Happy Coding! 🎯✨
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0386-lexicographical-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -636,6 +640,7 @@ Happy Coding! 🎯✨
 | [0022-generate-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/gunjanghate/DSA-Daily/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/gunjanghate/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
