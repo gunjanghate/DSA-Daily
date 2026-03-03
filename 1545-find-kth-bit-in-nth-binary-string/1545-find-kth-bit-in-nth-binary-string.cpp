@@ -6,17 +6,17 @@ public:
         return s;
     }
     char findKthBit(int n, int k) {
-        vector<string> s(n);
-        s[0] = "0";
+        // vector<string> s(n);
+        string last = "0";
 
         for (int i = 1; i < n; i++) {
-            string firstPart = s[i - 1];
-            string secondPart = invertStr(s[i - 1]);
+            string firstPart = last;
+            string secondPart = invertStr(last);
             reverse(secondPart.begin(), secondPart.end());
-            string newstr = firstPart + '1' + secondPart;
-            s[i] = newstr;
+            string s = firstPart + '1' + secondPart;
+            last = s;
         }
 
-        return s[n-1][k-1];
+        return last[k-1];
     }
 };
