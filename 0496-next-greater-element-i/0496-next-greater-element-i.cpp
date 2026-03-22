@@ -1,31 +1,27 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> ans;
-        priority_queue<int> pq;
-        for (int i = 0; i < nums1.size(); i++) {
+        stack<int> st;
+        unordered_map<int, int> mp;
 
-            auto it = find(nums2.begin(), nums2.end(), nums1[i]);
-            int j = it - nums2.begin();
-            int f = -1;
-        
-            while (j < nums2.size()) {
-                if(!pq.empty() && pq.top()<nums2[j]){
-                    f = nums2[j];
-                    break;
-                }
-                pq.push(nums2[j]);
-                j++;
+        // Step 1: build next greater map for nums2
+        for (int i = nums2.size() - 1; i >= 0; i--) {
+            while (!st.empty() && st.top() <= nums2[i]) {
+                st.pop();
             }
 
-          
-                ans.push_back(f);
-            
+            if (st.empty()) mp[nums2[i]] = -1;
+            else mp[nums2[i]] = st.top();
 
-            while (!pq.empty()) {
-                pq.pop();
-            }
+            st.push(nums2[i]);
         }
+
+        // Step 2: build answer for nums1
+        vector<int> ans;
+        for (int x : nums1) {
+            ans.push_back(mp[x]);
+        }
+
         return ans;
     }
 };
