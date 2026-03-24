@@ -98,6 +98,7 @@ Happy Coding! 🎯✨
 | [2023-design-movie-rental-system](https://github.com/gunjanghate/DSA-Daily/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/2048-build-array-from-permutation) |
+| [2104-sum-of-subarray-ranges](https://github.com/gunjanghate/DSA-Daily/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
@@ -611,6 +612,7 @@ Happy Coding! 🎯✨
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gunjanghate/DSA-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2104-sum-of-subarray-ranges](https://github.com/gunjanghate/DSA-Daily/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/gunjanghate/DSA-Daily/tree/master/2211-count-collisions-on-a-road) |
 ## Bucket Sort
 |  |
@@ -737,4 +739,5 @@ Happy Coding! 🎯✨
 | [0496-next-greater-element-i](https://github.com/gunjanghate/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/gunjanghate/DSA-Daily/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
