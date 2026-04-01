@@ -121,6 +121,7 @@ Happy Coding! 🎯✨
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/gunjanghate/DSA-Daily/tree/master/2737-row-with-maximum-ones) |
+| [2751-robot-collisions](https://github.com/gunjanghate/DSA-Daily/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gunjanghate/DSA-Daily/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gunjanghate/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -206,6 +207,7 @@ Happy Coding! 🎯✨
 | [2211-count-collisions-on-a-road](https://github.com/gunjanghate/DSA-Daily/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2751-robot-collisions](https://github.com/gunjanghate/DSA-Daily/tree/master/2751-robot-collisions) |
 | [2886-faulty-keyboard](https://github.com/gunjanghate/DSA-Daily/tree/master/2886-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gunjanghate/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3379-transformed-array) |
@@ -295,6 +297,7 @@ Happy Coding! 🎯✨
 | [2566-number-of-unequal-triplets-in-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2751-robot-collisions](https://github.com/gunjanghate/DSA-Daily/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -639,6 +642,7 @@ Happy Coding! 🎯✨
 | [1818-maximum-score-from-removing-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2104-sum-of-subarray-ranges](https://github.com/gunjanghate/DSA-Daily/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/gunjanghate/DSA-Daily/tree/master/2211-count-collisions-on-a-road) |
+| [2751-robot-collisions](https://github.com/gunjanghate/DSA-Daily/tree/master/2751-robot-collisions) |
 ## Bucket Sort
 |  |
 | ------- |
