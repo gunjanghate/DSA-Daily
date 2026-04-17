@@ -149,6 +149,7 @@ Happy Coding! 🎯✨
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -368,6 +369,7 @@ Happy Coding! 🎯✨
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gunjanghate/DSA-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
@@ -435,6 +437,7 @@ Happy Coding! 🎯✨
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/gunjanghate/DSA-Daily/tree/master/3830-find-closest-person) |
 ## String
 |  |
