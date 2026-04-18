@@ -626,6 +626,7 @@ Happy Coding! 🎯✨
 | [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -753,6 +754,7 @@ Happy Coding! 🎯✨
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -785,4 +787,12 @@ Happy Coding! 🎯✨
 | [0503-next-greater-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/gunjanghate/DSA-Daily/tree/master/2104-sum-of-subarray-ranges) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
