@@ -51,6 +51,7 @@ Happy Coding! 🎯✨
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/gunjanghate/DSA-Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/0216-combination-sum-iii) |
@@ -390,6 +391,7 @@ Happy Coding! 🎯✨
 | [0074-search-a-2d-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/gunjanghate/DSA-Daily/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gunjanghate/DSA-Daily/tree/master/0994-rotting-oranges) |
@@ -629,6 +631,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
@@ -759,6 +762,7 @@ Happy Coding! 🎯✨
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gunjanghate/DSA-Daily/tree/master/0994-rotting-oranges) |
@@ -797,6 +801,7 @@ Happy Coding! 🎯✨
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
