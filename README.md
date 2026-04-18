@@ -79,6 +79,7 @@ Happy Coding! 🎯✨
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -253,6 +254,7 @@ Happy Coding! 🎯✨
 | [0904-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/gunjanghate/DSA-Daily/tree/master/1813-maximum-erasure-value) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -267,6 +269,7 @@ Happy Coding! 🎯✨
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gunjanghate/DSA-Daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
@@ -520,6 +523,7 @@ Happy Coding! 🎯✨
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gunjanghate/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
