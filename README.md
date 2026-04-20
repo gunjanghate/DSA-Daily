@@ -103,6 +103,7 @@ Happy Coding! 🎯✨
 | [1791-richest-customer-wealth](https://github.com/gunjanghate/DSA-Daily/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/gunjanghate/DSA-Daily/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gunjanghate/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/gunjanghate/DSA-Daily/tree/master/2023-design-movie-rental-system) |
@@ -196,6 +197,7 @@ Happy Coding! 🎯✨
 | [0961-long-pressed-name](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gunjanghate/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -537,6 +539,7 @@ Happy Coding! 🎯✨
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1646-kth-missing-positive-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gunjanghate/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2047-find-a-peak-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2047-find-a-peak-element-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
