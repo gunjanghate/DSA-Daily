@@ -5,18 +5,35 @@ public:
         cin.tie(NULL);
 
         int n = ratings.size();
-        int cnt = 0;
-        vector<int> candy(n, 1);
-        for (int i = 1; i < n; i++)
-            if (ratings[i] > ratings[i - 1])
-                candy[i] = candy[i - 1]+1;
 
-        for (int i = n - 1; i > 0; i--) {
-            if (ratings[i] < ratings[i - 1])
-                candy[i - 1] = max(candy[i - 1], candy[i] + 1);
-            cnt += candy[i - 1];
+        int candies = n;
+
+        int i = 1;
+
+        while (i < n) {
+
+            if (ratings[i] == ratings[i - 1]) {
+                i++;
+                continue;
+            }
+
+            int peak = 0;
+
+            while (i < n && ratings[i] > ratings[i - 1]) {
+                peak++;
+                candies += peak;
+                i++;
+            }
+            int valley = 0; // down
+
+            while (i < n && ratings[i] < ratings[i - 1]) {
+                valley++;
+                candies += valley;
+                i++;
+            }
+            candies -= min(peak, valley);
         }
 
-        return cnt + candy[n - 1];
+        return candies;
     }
 };
