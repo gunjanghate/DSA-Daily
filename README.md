@@ -63,6 +63,7 @@ Happy Coding! 🎯✨
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/gunjanghate/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0503-next-greater-element-ii) |
@@ -194,6 +195,7 @@ Happy Coding! 🎯✨
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-long-pressed-name) |
@@ -293,6 +295,7 @@ Happy Coding! 🎯✨
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
@@ -566,6 +569,7 @@ Happy Coding! 🎯✨
 | [0135-candy](https://github.com/gunjanghate/DSA-Daily/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/1018-largest-perimeter-triangle) |
