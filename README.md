@@ -96,6 +96,7 @@ Happy Coding! 🎯✨
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gunjanghate/DSA-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -404,6 +405,7 @@ Happy Coding! 🎯✨
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gunjanghate/DSA-Daily/tree/master/0994-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/gunjanghate/DSA-Daily/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2047-find-a-peak-element-ii) |
@@ -655,6 +657,7 @@ Happy Coding! 🎯✨
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Trie
 |  |
 | ------- |
@@ -784,6 +787,7 @@ Happy Coding! 🎯✨
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gunjanghate/DSA-Daily/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -820,6 +824,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
