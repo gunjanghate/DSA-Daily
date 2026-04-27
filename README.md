@@ -422,6 +422,7 @@ Happy Coding! 🎯✨
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/gunjanghate/DSA-Daily/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/gunjanghate/DSA-Daily/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/gunjanghate/DSA-Daily/tree/master/0326-power-of-three) |
@@ -475,6 +476,7 @@ Happy Coding! 🎯✨
 | [0131-palindrome-partitioning](https://github.com/gunjanghate/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/gunjanghate/DSA-Daily/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
@@ -671,6 +673,7 @@ Happy Coding! 🎯✨
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/gunjanghate/DSA-Daily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/gunjanghate/DSA-Daily/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/gunjanghate/DSA-Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0402-remove-k-digits) |
