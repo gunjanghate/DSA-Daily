@@ -104,6 +104,7 @@ Happy Coding! 🎯✨
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1646-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/gunjanghate/DSA-Daily/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/gunjanghate/DSA-Daily/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1848-minimum-distance-to-the-target-element) |
