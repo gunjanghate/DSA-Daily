@@ -73,6 +73,7 @@ Happy Coding! 🎯✨
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/gunjanghate/DSA-Daily/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/gunjanghate/DSA-Daily/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -288,6 +289,7 @@ Happy Coding! 🎯✨
 | [0209-minimum-size-subarray-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/gunjanghate/DSA-Daily/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gunjanghate/DSA-Daily/tree/master/2483-minimum-penalty-for-a-shop) |
