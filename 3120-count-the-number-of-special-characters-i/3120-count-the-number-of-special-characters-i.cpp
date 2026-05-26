@@ -2,31 +2,25 @@ class Solution {
 public:
     int numberOfSpecialChars(string word) {
 
-        unordered_set<char> st;
-        int ans = 0;
+        vector<int> lower(26, 0);
+        vector<int> upper(26, 0);
 
         for(char c : word){
 
             if(islower(c)){
-
-                if(st.find(toupper(c)) != st.end() &&
-                   st.find(c) == st.end()) {
-
-                    ans++;
-                }
-
-                st.insert(c);
+                lower[c - 'a'] = 1;
             }
-
             else if(isupper(c)){
+                upper[c - 'A'] = 1;
+            }
+        }
 
-                if(st.find(tolower(c)) != st.end() &&
-                   st.find(c) == st.end()) {
+        int ans = 0;
 
-                    ans++;
-                }
+        for(int i = 0; i < 26; i++){
 
-                st.insert(c);
+            if(lower[i] && upper[i]){
+                ans++;
             }
         }
 
