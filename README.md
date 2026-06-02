@@ -61,6 +61,7 @@ Happy Coding! 🎯✨
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/gunjanghate/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
@@ -206,6 +207,7 @@ Happy Coding! 🎯✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
@@ -246,6 +248,7 @@ Happy Coding! 🎯✨
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/gunjanghate/DSA-Daily/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0693-binary-number-with-alternating-bits) |
@@ -571,6 +574,7 @@ Happy Coding! 🎯✨
 | [0209-minimum-size-subarray-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/gunjanghate/DSA-Daily/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/0744-find-smallest-letter-greater-than-target) |
