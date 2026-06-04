@@ -192,6 +192,7 @@ Happy Coding! 🎯✨
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gunjanghate/DSA-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -492,6 +493,7 @@ Happy Coding! 🎯✨
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gunjanghate/DSA-Daily/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/3783-mirror-distance-of-an-integer) |
@@ -683,6 +685,7 @@ Happy Coding! 🎯✨
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Queue
 |  |
 | ------- |
