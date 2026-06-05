@@ -118,6 +118,7 @@ Happy Coding! 🎯✨
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/2048-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/gunjanghate/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/gunjanghate/DSA-Daily/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/gunjanghate/DSA-Daily/tree/master/2126-destroying-asteroids) |
@@ -237,6 +238,7 @@ Happy Coding! 🎯✨
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/2048-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/gunjanghate/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/gunjanghate/DSA-Daily/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -274,6 +276,7 @@ Happy Coding! 🎯✨
 | [0225-implement-stack-using-queues](https://github.com/gunjanghate/DSA-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gunjanghate/DSA-Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/gunjanghate/DSA-Daily/tree/master/0239-sliding-window-maximum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/gunjanghate/DSA-Daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
