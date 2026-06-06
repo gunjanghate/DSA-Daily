@@ -138,6 +138,7 @@ Happy Coding! 🎯✨
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/gunjanghate/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -307,6 +308,7 @@ Happy Coding! 🎯✨
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gunjanghate/DSA-Daily/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2574-left-and-right-sum-differences](https://github.com/gunjanghate/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
