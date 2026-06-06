@@ -1,6 +1,5 @@
 class Solution {
 public:
-    int count = 0; 
 
     void merge(vector<int> &arr, int low, int mid, int high) {
         vector<int> temp; 
@@ -30,7 +29,8 @@ public:
     }
 
     // Count reverse pairs where arr[i] > 2 * arr[j]
-    void countPairs(vector<int> &arr, int low, int mid, int high) {
+    int countPairs(vector<int> &arr, int low, int mid, int high) {
+            int count = 0; 
         int right = mid + 1;
         for (int i = low; i <= mid; i++) {
             while (right <= high && arr[i] > 2LL * arr[right]) { // Use 2LL to avoid overflow
@@ -38,21 +38,24 @@ public:
             }
             count += (right - (mid + 1));
         }
+
+        return count;
     }
 
-    void mergeSort(vector<int> &arr, int low, int high) {
-        if (low >= high) return; 
+    int mergeSort(vector<int> &arr, int low, int high) {
+            int count = 0; 
+        if (low >= high) return count; 
 
         int mid = (low + high) / 2;
-        mergeSort(arr, low, mid);     
-        mergeSort(arr, mid + 1, high);
-        countPairs(arr, low, mid, high); // Count reverse pairs
+        count += mergeSort(arr, low, mid);     
+        count += mergeSort(arr, mid + 1, high);
+        count += countPairs(arr, low, mid, high); // Count reverse pairs
         merge(arr, low, mid, high);   
+
+        return count;
     }
 
     int reversePairs(vector<int> &nums) {
-        count = 0; 
-        mergeSort(nums, 0, nums.size() - 1);
-        return count;
+        return mergeSort(nums, 0, nums.size() - 1);
     }
 };
