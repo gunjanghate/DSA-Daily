@@ -127,6 +127,7 @@ Happy Coding! 🎯✨
 | [2126-destroying-asteroids](https://github.com/gunjanghate/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gunjanghate/DSA-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
@@ -413,6 +414,7 @@ Happy Coding! 🎯✨
 | [1980-find-unique-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/gunjanghate/DSA-Daily/tree/master/2023-design-movie-rental-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -862,6 +864,7 @@ Happy Coding! 🎯✨
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -878,6 +881,7 @@ Happy Coding! 🎯✨
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Database
 |  |
 | ------- |
