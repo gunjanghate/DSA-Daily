@@ -50,6 +50,7 @@ Happy Coding! 🎯✨
 | [0128-longest-consecutive-sequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gunjanghate/DSA-Daily/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/gunjanghate/DSA-Daily/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/gunjanghate/DSA-Daily/tree/master/0162-find-peak-element) |
@@ -265,6 +266,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0287-find-the-duplicate-number) |
