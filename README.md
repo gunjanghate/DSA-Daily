@@ -63,6 +63,7 @@ Happy Coding! 🎯✨
 | [0229-majority-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/gunjanghate/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
@@ -269,6 +270,7 @@ Happy Coding! 🎯✨
 | [0137-single-number-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/gunjanghate/DSA-Daily/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/gunjanghate/DSA-Daily/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
