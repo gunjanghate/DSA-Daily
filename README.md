@@ -180,6 +180,7 @@ Happy Coding! 🎯✨
 | [3637-trionic-array-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gunjanghate/DSA-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -674,6 +675,7 @@ Happy Coding! 🎯✨
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gunjanghate/DSA-Daily/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Heap (Priority Queue)
