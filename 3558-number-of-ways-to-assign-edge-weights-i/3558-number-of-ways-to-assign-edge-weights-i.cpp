@@ -17,6 +17,9 @@ public:
     }
 
     int assignEdgeWeights(vector<vector<int>>& edges) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         int n = edges.size() + 1;
 
         vector<vector<int>> adj(n + 1);
