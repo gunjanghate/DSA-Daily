@@ -1,24 +1,23 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        unordered_map<char,int> mp;
+        vector<int> hash(26, 0);
 
         int i = 0;
         int ans = 0;
         int maxFreq = 0;
 
-        for(int j = 0; j < s.length(); j++) {
+        for (int j = 0; j < s.length(); j++) {
 
-            mp[s[j]]++;
+            hash[s[j] - 'A']++;
 
-            maxFreq = max(maxFreq, mp[s[j]]);
+            maxFreq = max(maxFreq, hash[s[j] - 'A']);
 
-            while((j - i + 1) - maxFreq > k) {
-                mp[s[i]]--;
-                 maxFreq = max(maxFreq, mp[s[i]]);
-                if(mp[s[i]] == 0)
-                    mp.erase(s[i]);
-
+            while ((j - i + 1) - maxFreq > k) {
+                hash[s[i] - 'A']--;
+                maxFreq = 0;
+                for (int x : hash)
+                    maxFreq = max(maxFreq, x);
 
                 i++;
             }
