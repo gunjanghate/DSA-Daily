@@ -14,7 +14,7 @@ private:
         ListNode* prev = NULL;
         ListNode* temp = head;
 
-        while(temp!=NULL){
+        while(temp != NULL){
             ListNode* next = temp->next;
             temp->next = prev;
             prev = temp;
@@ -26,30 +26,28 @@ private:
 
 public:
     int pairSum(ListNode* head) {
-        ListNode* temp = head;
         ListNode* slow = head;
-        ListNode* fast = head->next;
+        ListNode* fast = head;
 
-        while(fast && fast->next){
-            slow = slow -> next;
-            fast = fast -> next -> next;
+        while(fast->next && fast->next->next){
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        ListNode* mid = slow;
-        ListNode* newPart = slow->next;
-        slow->next = NULL;
+        // Reverse second half
+        ListNode* secondPart = reverse(slow->next);
 
-        ListNode* firstPart = reverse(temp);
+        ListNode* firstPart = head;
 
         int ans = INT_MIN;
-        while(firstPart && newPart){
-            ans = max(ans, firstPart->val + newPart->val);
-            firstPart = firstPart -> next;
-            newPart = newPart -> next;
+
+        while(secondPart){
+            ans = max(ans, firstPart->val + secondPart->val);
+
+            firstPart = firstPart->next;
+            secondPart = secondPart->next;
         }
 
-
         return ans;
-
     }
 };
