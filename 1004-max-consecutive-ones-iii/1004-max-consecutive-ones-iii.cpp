@@ -10,14 +10,12 @@ public:
         
         while(j<nums.size()){
             if(nums[j]==0) zeros++;
-            if(zeros>k){
+            while(zeros>k){
                 if(nums[i]==0) zeros--;
                 i++;
             }
 
-            if(zeros<=k){
             ans = max(ans, j - i + 1);
-            }
 
             j++;
         }
