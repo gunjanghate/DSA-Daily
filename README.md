@@ -312,6 +312,7 @@ Happy Coding! 🎯✨
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/gunjanghate/DSA-Daily/tree/master/0239-sliding-window-maximum) |
@@ -408,6 +409,7 @@ Happy Coding! 🎯✨
 | [0041-first-missing-positive](https://github.com/gunjanghate/DSA-Daily/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gunjanghate/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/gunjanghate/DSA-Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gunjanghate/DSA-Daily/tree/master/0141-linked-list-cycle) |
@@ -564,6 +566,7 @@ Happy Coding! 🎯✨
 | [0038-count-and-say](https://github.com/gunjanghate/DSA-Daily/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gunjanghate/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/gunjanghate/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0151-reverse-words-in-a-string) |
