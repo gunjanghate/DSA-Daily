@@ -235,6 +235,7 @@ Happy Coding! 🎯✨
 | [0392-is-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/gunjanghate/DSA-Daily/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
@@ -257,6 +258,7 @@ Happy Coding! 🎯✨
 | [0054-spiral-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/gunjanghate/DSA-Daily/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/gunjanghate/DSA-Daily/tree/master/0844-backspace-string-compare) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/2048-build-array-from-permutation) |
@@ -578,6 +580,7 @@ Happy Coding! 🎯✨
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/gunjanghate/DSA-Daily/tree/master/0520-detect-capital) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/gunjanghate/DSA-Daily/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-long-pressed-name](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-long-pressed-name) |
@@ -798,6 +801,7 @@ Happy Coding! 🎯✨
 | [0496-next-greater-element-i](https://github.com/gunjanghate/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/gunjanghate/DSA-Daily/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/gunjanghate/DSA-Daily/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/gunjanghate/DSA-Daily/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
