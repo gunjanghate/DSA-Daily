@@ -520,6 +520,7 @@ Happy Coding! 🎯✨
 | [0788-rotated-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0788-rotated-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/1018-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/gunjanghate/DSA-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gunjanghate/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
