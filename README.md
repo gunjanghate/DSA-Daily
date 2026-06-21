@@ -120,6 +120,7 @@ Happy Coding! 🎯✨
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gunjanghate/DSA-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/gunjanghate/DSA-Daily/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/gunjanghate/DSA-Daily/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/gunjanghate/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gunjanghate/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1980-find-unique-binary-string) |
@@ -380,6 +381,7 @@ Happy Coding! 🎯✨
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gunjanghate/DSA-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1833-maximum-ice-cream-bars](https://github.com/gunjanghate/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/gunjanghate/DSA-Daily/tree/master/2126-destroying-asteroids) |
@@ -702,6 +704,7 @@ Happy Coding! 🎯✨
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/gunjanghate/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gunjanghate/DSA-Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/gunjanghate/DSA-Daily/tree/master/2126-destroying-asteroids) |
@@ -833,6 +836,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/gunjanghate/DSA-Daily/tree/master/1137-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/gunjanghate/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 ## Recursion
 |  |
 | ------- |
