@@ -1,14 +1,17 @@
 class Solution {
 public:
     int maxIceCream(vector<int>& costs, int coins) {
-        vector<int> freq(100001);
+        vector<int> freq(100001, 0);
+        int fmx = 0;
 
-        for (int cost : costs)
+        for (int cost : costs) {
             freq[cost]++;
+            fmx = max(fmx, cost);
+        }
 
         int ans = 0;
 
-        for (int price = 1; price <= 100000; price++) {
+        for (int price = 1; price <= fmx && coins > 0; price++) {
             if (freq[price] == 0)
                 continue;
 
@@ -16,10 +19,8 @@ public:
 
             ans += canBuy;
             coins -= canBuy * price;
-
-            if (coins < price)
-                break;
         }
+
         return ans;
     }
 };
