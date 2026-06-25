@@ -39,6 +39,7 @@ Happy Coding! 🎯✨
 | [0048-rotate-image](https://github.com/gunjanghate/DSA-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gunjanghate/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gunjanghate/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
@@ -202,6 +203,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gunjanghate/DSA-Daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/gunjanghate/DSA-Daily/tree/master/0085-maximal-rectangle) |
@@ -697,6 +699,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gunjanghate/DSA-Daily/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/gunjanghate/DSA-Daily/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
