@@ -5,35 +5,36 @@ public:
         cin.tie(NULL);
 
         int n = ratings.size();
-
-        int candies = n;
-
+        int sum = 1;
+       
         int i = 1;
 
         while (i < n) {
 
             if (ratings[i] == ratings[i - 1]) {
+                sum+=1;
                 i++;
                 continue;
             }
 
-            int peak = 0;
+            int peak = 1;
 
             while (i < n && ratings[i] > ratings[i - 1]) {
                 peak++;
-                candies += peak;
+                sum += peak;
                 i++;
             }
-            int valley = 0; // down
-
+            int valley = 1;
             while (i < n && ratings[i] < ratings[i - 1]) {
-                valley++;
-                candies += valley;
+                sum += valley;
                 i++;
+                valley++;
             }
-            candies -= min(peak, valley);
+            if(valley>peak){
+                sum += valley - peak;
+            }
         }
 
-        return candies;
+        return sum;
     }
 };
