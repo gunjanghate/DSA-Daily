@@ -76,6 +76,7 @@ Happy Coding! 🎯✨
 | [0403-frog-jump](https://github.com/gunjanghate/DSA-Daily/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/gunjanghate/DSA-Daily/tree/master/0496-next-greater-element-i) |
@@ -217,6 +218,7 @@ Happy Coding! 🎯✨
 | [0392-is-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/gunjanghate/DSA-Daily/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
@@ -377,6 +379,7 @@ Happy Coding! 🎯✨
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
@@ -707,6 +710,7 @@ Happy Coding! 🎯✨
 | [0135-candy](https://github.com/gunjanghate/DSA-Daily/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
