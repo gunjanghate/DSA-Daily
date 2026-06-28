@@ -24,7 +24,7 @@ public:
 
             long long new1 = max(changed, max(dp0 + changed, dp1 + changed));
 
-            long long new2 = max(normal, max(dp1 + normal, dp2 + normal));
+            long long new2 = max(dp1 + normal, dp2 + normal);
 
             dp0 = new0;
             dp1 = new1;
