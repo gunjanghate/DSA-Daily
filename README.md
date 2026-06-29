@@ -813,6 +813,7 @@ Happy Coding! 🎯✨
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -966,6 +967,7 @@ Happy Coding! 🎯✨
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/gunjanghate/DSA-Daily/tree/master/0951-flip-equivalent-binary-trees) |
@@ -1000,6 +1002,7 @@ Happy Coding! 🎯✨
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/gunjanghate/DSA-Daily/tree/master/0951-flip-equivalent-binary-trees) |
@@ -1068,4 +1071,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
