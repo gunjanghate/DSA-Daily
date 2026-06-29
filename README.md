@@ -953,6 +953,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
@@ -964,6 +965,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0130-surrounded-regions](https://github.com/gunjanghate/DSA-Daily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
@@ -976,6 +978,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
