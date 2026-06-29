@@ -19,10 +19,19 @@ public:
 
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
 
-        TreeNode* ans = nullptr;
+        if (root == NULL || root == p || root == q) {
+            return root;
+        }
+        
+        TreeNode* left = lowestCommonAncestor(root->left, p, q);
+        TreeNode* right = lowestCommonAncestor(root->right, p, q);
 
-        solve(root, p, q, ans);
-
-        return ans;
+        if (left == NULL) {
+            return right;
+        } else if (right == NULL) {
+            return left;
+        } else { 
+            return root;
+        }
     }
 };
