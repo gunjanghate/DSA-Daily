@@ -807,6 +807,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/gunjanghate/DSA-Daily/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
@@ -952,6 +953,7 @@ Happy Coding! 🎯✨
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -964,6 +966,7 @@ Happy Coding! 🎯✨
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -977,6 +980,7 @@ Happy Coding! 🎯✨
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
