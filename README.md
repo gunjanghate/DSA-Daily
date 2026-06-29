@@ -818,6 +818,7 @@ Happy Coding! 🎯✨
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
+| [0951-flip-equivalent-binary-trees](https://github.com/gunjanghate/DSA-Daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -965,6 +966,7 @@ Happy Coding! 🎯✨
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/gunjanghate/DSA-Daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -997,6 +999,7 @@ Happy Coding! 🎯✨
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/gunjanghate/DSA-Daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
