@@ -814,6 +814,7 @@ Happy Coding! 🎯✨
 | [0101-symmetric-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/gunjanghate/DSA-Daily/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
@@ -975,6 +976,7 @@ Happy Coding! 🎯✨
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0226-invert-binary-tree) |
@@ -1017,6 +1019,7 @@ Happy Coding! 🎯✨
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0226-invert-binary-tree) |
