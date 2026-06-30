@@ -10,44 +10,65 @@
  * right(right) {}
  * };
  */
+// class Solution {
+// private:
+//     void solve(TreeNode* root, vector<string>& ans, string arr) {
+
+//         if (!root)
+//             return;
+
+//         arr.push_back(root->val + '0');
+
+//         if (!root->left && !root->right) {
+//             ans.push_back(arr);
+//             return;
+//         }
+
+//         solve(root->left, ans, arr);
+//         solve(root->right, ans, arr);
+//     }
+
+//     vector<string> pathSum(TreeNode* root) {
+//         vector<string> ans;
+//         string arr = "";
+
+//         solve(root, ans, arr);
+
+//         return ans;
+//     }
+
+// public:
+//     int sumNumbers(TreeNode* root) {
+
+//         vector<string> sums = pathSum(root);
+
+//         int total = 0;
+
+//         for (string s : sums) {
+//             total += stoi(s);
+//         }
+
+//         return total;
+//     }
+// };
+
 class Solution {
-private:
-    void solve(TreeNode* root, vector<string>& ans, string arr) {
+public:
+    int solve(TreeNode* root, int num) {
 
         if (!root)
-            return;
-            
-        arr.push_back(root->val + '0');
+            return 0;
 
-        if (!root->left && !root->right) {
-            ans.push_back(arr);
-            return;
-        }
+        num = num * 10 + root->val;
 
-        solve(root->left, ans, arr);
-        solve(root->right, ans, arr);
+        if (!root->left && !root->right)
+            return num;
+
+        return solve(root->left, num) +
+               solve(root->right, num);
     }
 
-    vector<string> pathSum(TreeNode* root) {
-        vector<string> ans;
-        string arr = "";
-
-        solve(root, ans, arr);
-
-        return ans;
-    }
-
-public:
     int sumNumbers(TreeNode* root) {
-
-        vector<string> sums = pathSum(root);
-
-        int total = 0;
-
-        for (string s : sums) {
-            total += stoi(s);
-        }
-
-        return total;
+        return solve(root, 0);
     }
 };
