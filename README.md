@@ -375,6 +375,7 @@ Happy Coding! 🎯✨
 | [2574-left-and-right-sum-differences](https://github.com/gunjanghate/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -587,6 +588,7 @@ Happy Coding! 🎯✨
 | [3676-smallest-number-with-all-set-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/gunjanghate/DSA-Daily/tree/master/3830-find-closest-person) |
@@ -669,6 +671,7 @@ Happy Coding! 🎯✨
 | [3713-longest-balanced-substring-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/gunjanghate/DSA-Daily/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gunjanghate/DSA-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
