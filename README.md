@@ -189,6 +189,7 @@ Happy Coding! 🎯✨
 | [3430-count-days-without-meetings](https://github.com/gunjanghate/DSA-Daily/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/gunjanghate/DSA-Daily/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -493,6 +494,7 @@ Happy Coding! 🎯✨
 | [3120-count-the-number-of-special-characters-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/gunjanghate/DSA-Daily/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -706,6 +708,7 @@ Happy Coding! 🎯✨
 | [2047-find-a-peak-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2047-find-a-peak-element-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3790-fruits-into-baskets-ii) |
@@ -1094,12 +1097,14 @@ Happy Coding! 🎯✨
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gunjanghate/DSA-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gunjanghate/DSA-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
