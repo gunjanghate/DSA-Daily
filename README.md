@@ -807,6 +807,7 @@ Happy Coding! 🎯✨
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/gunjanghate/DSA-Daily/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
