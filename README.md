@@ -108,6 +108,7 @@ Happy Coding! 🎯✨
 | [1137-height-checker](https://github.com/gunjanghate/DSA-Daily/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/gunjanghate/DSA-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -284,6 +285,7 @@ Happy Coding! 🎯✨
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/gunjanghate/DSA-Daily/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/gunjanghate/DSA-Daily/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/gunjanghate/DSA-Daily/tree/master/2048-build-array-from-permutation) |
@@ -528,6 +530,7 @@ Happy Coding! 🎯✨
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gunjanghate/DSA-Daily/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/gunjanghate/DSA-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
