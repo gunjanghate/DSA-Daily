@@ -3,45 +3,42 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        int ele1 = INT_MIN, ele2 = INT_MIN;
-        int c1 = 0;
-        int c2 = 0;
-        int i = 0;
-        while (i < nums.size()) {
-            if (c1 == 0 && nums[i] != ele2) {
-                ele1 = nums[i];
+        int e1 = INT_MIN, e2 = INT_MIN;
+        int c1 = 0, c2 = 0;
+
+        for (int x : nums) {
+            if (x == e1)
                 c1++;
-            } else if (c2 == 0 && nums[i] != ele1) {
-                ele2 = nums[i];
+            else if (x == e2)
                 c2++;
+            else if (c1 == 0) {
+                e1 = x;
+                c1 = 1;
+            } else if (c2 == 0) {
+                e2 = x;
+                c2 = 1;
             } else {
-
-                if (ele1 == nums[i])
-                    c1++;
-                else if (ele2 == nums[i])
-                    c2++;
-                else {
-                    c1--;
-                    c2--;
-                }
+                c1--;
+                c2--;
             }
-            i++;
         }
+
         c1 = c2 = 0;
-        for (int num : nums) {
-            if (num == ele1)
+
+        vector<int> res;
+        int thre = nums.size() / 3;
+        for (auto i : nums) {
+            if (i == e1)
                 c1++;
-            else if (num == ele2)
+            if (i == e2)
                 c2++;
         }
 
-        vector<int> result;
-        int threshold = nums.size() / 3;
-        if (c1 > threshold)
-            result.push_back(ele1);
-        if (c2 > threshold)
-            result.push_back(ele2);
+        if (c1 > thre)
+            res.push_back(e1);
+        if (c2 > thre)
+            res.push_back(e2);
 
-        return result;
+        return res;
     }
 };
