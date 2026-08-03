@@ -2,22 +2,22 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
         int n = nums.size();
-
+        int maxIdx = n - 1;
         vector<bool> dp(n, false);
 
-        dp[n - 1] = true;
 
-        for (int i = n - 2; i >= 0; i--) {
-
-            for (int jump = 1; jump <= nums[i]; jump++) {
-
-                if (i + jump < n && dp[i + jump]) {
-                    dp[i] = true;
-                    break;
-                }
+        for(int i = n -1; i>=0; i--){
+            if(i + nums[i] >= n-1) {
+                dp[i] = true;
+                maxIdx = i;
+            }
+            if(maxIdx <= i + nums[i]){
+                dp[i] = true;
+                maxIdx = i;
             }
         }
 
         return dp[0];
+
     }
 };
