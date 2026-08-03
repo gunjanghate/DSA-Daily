@@ -108,6 +108,7 @@ Happy Coding! 🎯✨
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/gunjanghate/DSA-Daily/tree/master/1137-height-checker) |
+| [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1260-shift-2d-grid) |
@@ -237,6 +238,7 @@ Happy Coding! 🎯✨
 | [0788-rotated-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/gunjanghate/DSA-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -380,6 +382,7 @@ Happy Coding! 🎯✨
 | [0930-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gunjanghate/DSA-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/gunjanghate/DSA-Daily/tree/master/1732-find-the-highest-altitude) |
@@ -578,6 +581,7 @@ Happy Coding! 🎯✨
 | [0788-rotated-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gunjanghate/DSA-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
@@ -1032,6 +1036,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0486-predict-the-winner](https://github.com/gunjanghate/DSA-Daily/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
@@ -1203,9 +1208,11 @@ Happy Coding! 🎯✨
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
