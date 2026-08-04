@@ -208,6 +208,7 @@ Happy Coding! 🎯✨
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -450,6 +451,7 @@ Happy Coding! 🎯✨
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -522,6 +524,7 @@ Happy Coding! 🎯✨
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gunjanghate/DSA-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
