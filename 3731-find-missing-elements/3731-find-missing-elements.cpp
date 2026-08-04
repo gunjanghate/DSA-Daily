@@ -4,13 +4,16 @@ public:
         int l = *min_element(nums.begin(), nums.end());
         int h = *max_element(nums.begin(), nums.end());
 
+        int n = h - l + 1;
+        vector<bool> exists(n, false);
+
+        for(int& i : nums) exists[i-l] = true;
+
         vector<int> ans;
 
-        sort(nums.begin(), nums.end());
-
-        for(int i = l; i<=h; i++){
-            if(!(binary_search(nums.begin(), nums.end(),i))){
-                ans.push_back(i);
+        for(int i = 0; i<n; i++){
+            if(!exists[i]){
+                ans.push_back(i+l);
             }
         }
 
