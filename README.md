@@ -905,6 +905,7 @@ Happy Coding! 🎯✨
 | [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gunjanghate/DSA-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/gunjanghate/DSA-Daily/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/gunjanghate/DSA-Daily/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Trie
 |  |
@@ -1097,6 +1098,7 @@ Happy Coding! 🎯✨
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gunjanghate/DSA-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/gunjanghate/DSA-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/gunjanghate/DSA-Daily/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1178,6 +1180,7 @@ Happy Coding! 🎯✨
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gunjanghate/DSA-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/gunjanghate/DSA-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/gunjanghate/DSA-Daily/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Doubly-Linked List
 |  |
