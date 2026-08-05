@@ -319,6 +319,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0067-add-binary](https://github.com/gunjanghate/DSA-Daily/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
@@ -352,6 +353,7 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/gunjanghate/DSA-Daily/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/gunjanghate/DSA-Daily/tree/master/0239-sliding-window-maximum) |
@@ -467,6 +469,7 @@ Happy Coding! 🎯✨
 | [0141-linked-list-cycle](https://github.com/gunjanghate/DSA-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gunjanghate/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0219-contains-duplicate-ii) |
@@ -644,6 +647,7 @@ Happy Coding! 🎯✨
 | [0131-palindrome-partitioning](https://github.com/gunjanghate/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
@@ -1136,10 +1140,12 @@ Happy Coding! 🎯✨
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Monotonic Stack
@@ -1218,4 +1224,12 @@ Happy Coding! 🎯✨
 | ------- |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
