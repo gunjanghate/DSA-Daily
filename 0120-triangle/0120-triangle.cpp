@@ -20,28 +20,31 @@ public:
             dp[i] = vector<int>(t[i].size(),-1);
         }
         dp[0][0] = t[0][0];
+        vector<int> prev(t[0].size(),t[0][0]);
 
-        for(int i = 0; i<m; i++){
+        for(int i = 1; i<m; i++){
+            vector<int> curr(t[i].size(), 0);
             for(int j = 0; j<t[i].size(); j++){
                 if(i==0 && j==0){
                     continue;
                 }
                 else if(j==0){
-                    dp[i][j] = t[i][j] + dp[i-1][j];
+                    curr[j] = t[i][j] + prev[j];
                 }
                 else if(j==i){
-                    dp[i][j] = t[i][j] + dp[i-1][j-1]; 
+                    curr[j] = t[i][j] + prev[j-1]; 
 
                 } else{
-                int up = t[i][j] + dp[i-1][j]; 
+                int up = t[i][j] + prev[j]; 
 
-                int diagonal = t[i][j] + dp[i-1][j-1];
+                int diagonal = t[i][j] + prev[j-1];
 
-                dp[i][j] = min(up, diagonal);
+                curr[j] = min(up, diagonal);
                 }
             }
+            prev = curr;
         }
 
-        return *min_element(dp[m - 1].begin(), dp[m - 1].end());
+        return *min_element(prev.begin(), prev.end());
     }
 };
