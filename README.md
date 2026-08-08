@@ -50,6 +50,7 @@ Happy Coding! 🎯✨
 | [0079-word-search](https://github.com/gunjanghate/DSA-Daily/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gunjanghate/DSA-Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/gunjanghate/DSA-Daily/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjanghate/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gunjanghate/DSA-Daily/tree/master/0130-surrounded-regions) |
@@ -228,6 +229,7 @@ Happy Coding! 🎯✨
 | [0064-minimum-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/gunjanghate/DSA-Daily/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjanghate/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/gunjanghate/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/gunjanghate/DSA-Daily/tree/master/0198-house-robber) |
