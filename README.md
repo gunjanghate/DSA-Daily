@@ -246,6 +246,7 @@ Happy Coding! 🎯✨
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/gunjanghate/DSA-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gunjanghate/DSA-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
@@ -601,6 +602,7 @@ Happy Coding! 🎯✨
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/gunjanghate/DSA-Daily/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
+| [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gunjanghate/DSA-Daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1053,6 +1055,7 @@ Happy Coding! 🎯✨
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |
@@ -1243,11 +1246,13 @@ Happy Coding! 🎯✨
 | ------- |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1256,4 +1261,12 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
