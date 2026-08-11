@@ -4,6 +4,11 @@ public:
         int n = nums.size();
 
         int sum = nums[0];
+        vector<bool> exists(52, false);
+
+        for(auto i : nums){
+            exists[i] = true;
+        }
 
         for (int i = 1; i < n; i++) {
             if (nums[i] == nums[i - 1] + 1)
@@ -12,12 +17,12 @@ public:
                 break;
         }
 
-        unordered_set<int> st(nums.begin(), nums.end());
+        if(sum>50) return sum;
 
-        while (st.count(sum)) {
-            sum++;
+        for(int i = sum; i<=52; i++){
+            if(!exists[i]) return i;
         }
 
-        return sum;
+        return 0;
     }
 };
