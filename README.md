@@ -103,6 +103,7 @@ Happy Coding! 🎯✨
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/gunjanghate/DSA-Daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -390,6 +391,7 @@ Happy Coding! 🎯✨
 | [0724-find-pivot-index](https://github.com/gunjanghate/DSA-Daily/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
@@ -500,6 +502,7 @@ Happy Coding! 🎯✨
 | [0940-fruit-into-baskets](https://github.com/gunjanghate/DSA-Daily/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gunjanghate/DSA-Daily/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/gunjanghate/DSA-Daily/tree/master/1189-maximum-number-of-balloons) |
