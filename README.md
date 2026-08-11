@@ -182,6 +182,7 @@ Happy Coding! 🎯✨
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gunjanghate/DSA-Daily/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gunjanghate/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gunjanghate/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gunjanghate/DSA-Daily/tree/master/3074-apple-redistribution-into-boxes) |
@@ -444,6 +445,7 @@ Happy Coding! 🎯✨
 | [2751-robot-collisions](https://github.com/gunjanghate/DSA-Daily/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2887-sort-vowels-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gunjanghate/DSA-Daily/tree/master/3074-apple-redistribution-into-boxes) |
@@ -520,6 +522,7 @@ Happy Coding! 🎯✨
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gunjanghate/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
