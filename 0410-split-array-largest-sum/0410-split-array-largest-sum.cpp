@@ -28,7 +28,13 @@ public:
             if(res<=k){
                 ans = m;
                 h = m-1;
-            }else l = m+1;
+            }
+            else if(res<k){
+                h = m-1;
+
+            }
+            
+            else l = m+1;
         }
         
         return ans;
