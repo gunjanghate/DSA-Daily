@@ -3,6 +3,8 @@ public:
     int stoneGameV(vector<int>& s) {
 
         int n = s.size();
+
+        // Prefix sum
         vector<int> pre(n);
 
         pre[0] = s[0];
@@ -10,9 +12,10 @@ public:
         for(int i = 1; i < n; i++)
             pre[i] = pre[i - 1] + s[i];
 
-
+        // dp[i][j] = maximum score from s[i...j]
         vector<vector<int>> dp(n, vector<int>(n, 0));
 
+        // Length 2, 3, 4, ...
         for(int len = 2; len <= n; len++) {
 
             for(int i = 0; i + len - 1 < n; i++) {
