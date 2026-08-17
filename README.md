@@ -131,6 +131,7 @@ Happy Coding! 🎯✨
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gunjanghate/DSA-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/gunjanghate/DSA-Daily/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -255,6 +256,7 @@ Happy Coding! 🎯✨
 | [1301-number-of-paths-with-max-score](https://github.com/gunjanghate/DSA-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/gunjanghate/DSA-Daily/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gunjanghate/DSA-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
@@ -624,6 +626,7 @@ Happy Coding! 🎯✨
 | [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gunjanghate/DSA-Daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/gunjanghate/DSA-Daily/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/gunjanghate/DSA-Daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1922-count-good-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1922-count-good-numbers) |
@@ -1083,6 +1086,7 @@ Happy Coding! 🎯✨
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/gunjanghate/DSA-Daily/tree/master/1563-stone-game-v) |
 | [3462-vowels-game-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |
