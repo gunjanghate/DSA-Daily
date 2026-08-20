@@ -192,6 +192,7 @@ Happy Coding! 🎯✨
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gunjanghate/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gunjanghate/DSA-Daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gunjanghate/DSA-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -325,6 +326,7 @@ Happy Coding! 🎯✨
 | [2751-robot-collisions](https://github.com/gunjanghate/DSA-Daily/tree/master/2751-robot-collisions) |
 | [2886-faulty-keyboard](https://github.com/gunjanghate/DSA-Daily/tree/master/2886-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gunjanghate/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3612-process-string-with-special-operations-i) |
