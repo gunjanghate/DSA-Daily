@@ -658,6 +658,7 @@ Happy Coding! 🎯✨
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gunjanghate/DSA-Daily/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gunjanghate/DSA-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gunjanghate/DSA-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
