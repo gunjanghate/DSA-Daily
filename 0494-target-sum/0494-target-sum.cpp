@@ -19,10 +19,40 @@ public:
         if(ts < target || -ts > target) return 0;
 
 
-        vector<vector<int>> dp(n+1, vector<int>(2*ts+1, -1)); 
+        vector<vector<int>> dp(n+1, vector<int>(2*ts+1, 0));
+
+        vector<int> prev(2*ts+1, 0);
+
+        prev[ts] = 1; 
+
+        for (int i = 1; i <= n; i++) {
+        vector<int> curr(2*ts+1, 0);
+            for (int s = -ts; s <= ts; s++) {
+
+                int index = s + ts;
+
+                
+                if (s - nums[i - 1] >= -ts &&
+                    s - nums[i - 1] <= ts) {
+
+                    curr[index] +=
+                        prev[s - nums[i - 1] + ts];
+                }
+
+                if (s + nums[i - 1] >= -ts &&
+                    s + nums[i - 1] <= ts) {
+
+                    curr[index] +=
+                        prev[s + nums[i - 1] + ts];
+                }
+            }
+            prev = curr;
+        }
+
+        return prev[target + ts];
 
 
-        return solve(0, nums, target, n, 0, dp, ts);
+        // return solve(0, nums, target, n, 0, dp, ts);
         
     }
 };
