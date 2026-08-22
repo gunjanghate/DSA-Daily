@@ -83,6 +83,7 @@ Happy Coding! 🎯✨
 | [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/gunjanghate/DSA-Daily/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gunjanghate/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0503-next-greater-element-ii) |
@@ -250,6 +251,7 @@ Happy Coding! 🎯✨
 | [0410-split-array-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/gunjanghate/DSA-Daily/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
@@ -1063,6 +1065,7 @@ Happy Coding! 🎯✨
 | [0131-palindrome-partitioning](https://github.com/gunjanghate/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/gunjanghate/DSA-Daily/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
@@ -1330,4 +1333,12 @@ Happy Coding! 🎯✨
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0543-diameter-of-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
