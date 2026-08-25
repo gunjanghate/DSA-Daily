@@ -2,13 +2,12 @@ class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
         unordered_set<int> st(nums.begin(), nums.end());
-        int i = 1;
+        int i = k;
         while (true) {
-            int x = k * i;
-            if (st.find(x) == st.end()) {
-                return x;
+            if (st.find(i) == st.end()) {
+                return i;
             }
-            ++i;
+            i+=k;
         }
     }
 };
