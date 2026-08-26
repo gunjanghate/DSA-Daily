@@ -89,6 +89,7 @@ Happy Coding! 🎯✨
 | [0496-next-greater-element-i](https://github.com/gunjanghate/DSA-Daily/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
@@ -257,6 +258,7 @@ Happy Coding! 🎯✨
 | [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/gunjanghate/DSA-Daily/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
@@ -1348,6 +1350,7 @@ Happy Coding! 🎯✨
 | [0322-coin-change](https://github.com/gunjanghate/DSA-Daily/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1357,4 +1360,5 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/gunjanghate/DSA-Daily/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
