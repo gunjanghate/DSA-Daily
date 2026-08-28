@@ -315,6 +315,7 @@ Happy Coding! 🎯✨
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -767,6 +768,7 @@ Happy Coding! 🎯✨
 | [3617-find-the-original-typed-string-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -918,6 +920,7 @@ Happy Coding! 🎯✨
 | [3499-maximize-active-section-with-trade-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Queue
 |  |
