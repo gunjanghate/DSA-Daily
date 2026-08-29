@@ -959,6 +959,7 @@ Happy Coding! 🎯✨
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunjanghate/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/gunjanghate/DSA-Daily/tree/master/0951-flip-equivalent-binary-trees) |
@@ -1144,6 +1145,7 @@ Happy Coding! 🎯✨
 | [0543-diameter-of-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunjanghate/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/gunjanghate/DSA-Daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1168,6 +1170,7 @@ Happy Coding! 🎯✨
 | [0322-coin-change](https://github.com/gunjanghate/DSA-Daily/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunjanghate/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gunjanghate/DSA-Daily/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1203,6 +1206,7 @@ Happy Coding! 🎯✨
 | [0543-diameter-of-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunjanghate/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/gunjanghate/DSA-Daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
