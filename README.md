@@ -214,6 +214,7 @@ Happy Coding! 🎯✨
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/gunjanghate/DSA-Daily/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -369,6 +370,7 @@ Happy Coding! 🎯✨
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gunjanghate/DSA-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -568,6 +570,7 @@ Happy Coding! 🎯✨
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/gunjanghate/DSA-Daily/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -614,6 +617,7 @@ Happy Coding! 🎯✨
 | [2737-row-with-maximum-ones](https://github.com/gunjanghate/DSA-Daily/tree/master/2737-row-with-maximum-ones) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gunjanghate/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -1187,6 +1191,7 @@ Happy Coding! 🎯✨
 | [2685-count-the-number-of-complete-components](https://github.com/gunjanghate/DSA-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/gunjanghate/DSA-Daily/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
