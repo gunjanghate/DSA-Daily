@@ -1,8 +1,8 @@
 class ThroneInheritance {
 public:
 
-    map<string, vector<string>> children;
-    map<string, bool> dead;
+    unordered_map<string, vector<string>> children;
+    unordered_map<string, bool> dead;
     string king;
 
     ThroneInheritance(string kingName) {
