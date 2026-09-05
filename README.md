@@ -553,6 +553,7 @@ Happy Coding! 🎯✨
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/gunjanghate/DSA-Daily/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1600-throne-inheritance](https://github.com/gunjanghate/DSA-Daily/tree/master/1600-throne-inheritance) |
 | [1813-maximum-erasure-value](https://github.com/gunjanghate/DSA-Daily/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1980-find-unique-binary-string) |
@@ -981,6 +982,7 @@ Happy Coding! 🎯✨
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1600-throne-inheritance](https://github.com/gunjanghate/DSA-Daily/tree/master/1600-throne-inheritance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gunjanghate/DSA-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/gunjanghate/DSA-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/gunjanghate/DSA-Daily/tree/master/3310-remove-methods-from-project) |
@@ -1083,6 +1085,7 @@ Happy Coding! 🎯✨
 | [0232-implement-queue-using-stacks](https://github.com/gunjanghate/DSA-Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/gunjanghate/DSA-Daily/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/gunjanghate/DSA-Daily/tree/master/0901-online-stock-span) |
+| [1600-throne-inheritance](https://github.com/gunjanghate/DSA-Daily/tree/master/1600-throne-inheritance) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/gunjanghate/DSA-Daily/tree/master/2023-design-movie-rental-system) |
 ## Backtracking
@@ -1165,6 +1168,7 @@ Happy Coding! 🎯✨
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/gunjanghate/DSA-Daily/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1600-throne-inheritance](https://github.com/gunjanghate/DSA-Daily/tree/master/1600-throne-inheritance) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
