@@ -691,6 +691,7 @@ Happy Coding! 🎯✨
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/gunjanghate/DSA-Daily/tree/master/3830-find-closest-person) |
+| [3870-count-commas-in-range](https://github.com/gunjanghate/DSA-Daily/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
