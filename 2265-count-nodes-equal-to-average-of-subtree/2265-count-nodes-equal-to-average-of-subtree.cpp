@@ -11,32 +11,28 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root, int& cnt, int& n) {
+    pair<int, int> solve(TreeNode* root, int& cnt) {
         if (!root) {
-            n = 0;
-            return 0;
+            return {0, 0};
         }
 
-        int leftN = 0;
-        int left = solve(root->left, cnt, leftN);
+        auto left = solve(root->left, cnt);
 
-        int rightN = 0;
-        int right = solve(root->right, cnt, rightN);
+        auto right = solve(root->right, cnt);
 
-        int currSum = left + right + root->val;
-        n = leftN + rightN + 1;
+        int currSum = left.first + right.first + root->val;
+        int n = left.second + right.second + 1;
 
         if (currSum / n == root->val)
             cnt++;
 
-        return currSum;
+        return {currSum, n};
     }
 
     int averageOfSubtree(TreeNode* root) {
         int cnt = 0;
-        int n = 0;
 
-        solve(root, cnt, n);
+        solve(root, cnt);
 
         return cnt;
     }
