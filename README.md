@@ -651,6 +651,7 @@ Happy Coding! 🎯✨
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gunjanghate/DSA-Daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/gunjanghate/DSA-Daily/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
@@ -1412,4 +1413,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gunjanghate/DSA-Daily/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
