@@ -280,6 +280,7 @@ Happy Coding! 🎯✨
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gunjanghate/DSA-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -320,6 +321,7 @@ Happy Coding! 🎯✨
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2481-strictly-palindromic-number](https://github.com/gunjanghate/DSA-Daily/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gunjanghate/DSA-Daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -764,6 +766,7 @@ Happy Coding! 🎯✨
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2315-count-asterisks](https://github.com/gunjanghate/DSA-Daily/tree/master/2315-count-asterisks) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gunjanghate/DSA-Daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/gunjanghate/DSA-Daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -876,6 +879,7 @@ Happy Coding! 🎯✨
 | [2126-destroying-asteroids](https://github.com/gunjanghate/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gunjanghate/DSA-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gunjanghate/DSA-Daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gunjanghate/DSA-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
