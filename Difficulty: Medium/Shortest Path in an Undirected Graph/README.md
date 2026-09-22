@@ -1,0 +1,18 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1">Shortest Path in an Undirected Graph</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 14pt;">Given a weighted undirected graph with <strong>V</strong> vertices numbered from <strong>1</strong> to <strong>V</strong> and <strong>E</strong> edges, where <strong>edges[i]</strong> =<strong> [u, v, w] </strong>denotes an undirected edge between vertices u and v with weight w. We are also given two vertices <strong>src</strong> and <strong>dest</strong>, find the shortest path from src to dest.</span></p>
+<ul>
+<li><span style="font-size: 14pt;">If multiple shortest paths exist with the same total weight, return the one whose sequence of vertices is lexicographically smallest. </span></li>
+<li><span style="font-size: 14pt;">If no path exists between src and dest, return {-1}.</span></li>
+</ul>
+<p><span style="font-size: 14pt;"><strong>Note:</strong> The graph contains no negative-weight edges.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong style="font-size: 14pt;">Input:</strong><span style="font-size: 14pt;"> <span style="font-size: 18.6667px;">V = 5, edges[][] = [[1, 2, 2], [2, 5, 5], [2, 3, 4], [1, 4, 1], [4, 3, 3], [3, 5, 1]], src = 1, dest = 5</span>
+</span><strong style="font-size: 14pt;">Output: </strong><span style="font-size: 18.6667px;">[1, 4, 3, 5]</span>
+<strong style="font-size: 14pt;">Explanation: </strong></span><span style="font-size: 18.6667px;">The shortest path from vertex 1 to vertex 5 is 1 -&gt; 4 -&gt; 3 -&gt; 5 with a total weight of 5.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/929000/Web/Other/blobid1_1783509894.png" width="239" height="150"><br></span></pre>
+<pre><span style="font-size: 14pt;"><strong style="font-size: 14pt;">Input: </strong><span style="font-size: 18.6667px;">V = 6, edges[][] = [[1, 2, 1], [1, 3, 1], [2, 4, 1], [3, 4, 1], [4, 6, 1], [2, 5, 2], [5, 6, 1]], src = 1, dest = 6</span>
+<strong style="font-size: 14pt;">Output:</strong><span style="font-size: 14pt;"> <span style="font-size: 18.6667px;">[1, 2, 4, 6]</span>
+</span><span style="font-size: 14pt;"><strong>Explanation: </strong></span></span><span style="font-size: 18.6667px;">There are two shortest paths from 1 to 6 with total weight 3: 1 -&gt; 2 -&gt; 4 -&gt; 6 and 1 -&gt; 3 -&gt; 4 -&gt; 6. Since [1, 2, 4, 6] is lexicographically smaller, it is returned.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/929000/Web/Other/blobid3_1783512539.png" width="238" height="138"><br></span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>V = 5, edges[][] = [[1,2,4], [2,3,2], [4,5,1]], src = 1, dest = 5<br><strong>Output:</strong> [-1]
+<strong>Explanation: </strong>Since there are no edges, so no answer is possible.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/929000/Web/Other/blobid2_1783509934.png" width="223" height="139"><br></span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraint:</strong><br></span></p>
+<p><span style="font-size: 18.6667px;">2 ≤ V ≤ 10^5<br></span><span style="font-size: 18.6667px;"><span style="font-size: 18.6667px;">0 ≤ E ≤ 2 × 10^5</span><br></span><span style="font-size: 18.6667px;">1 ≤ edges[i][2] ≤ 10^4<br></span><span style="font-size: 18.6667px;">1 ≤ src, dest ≤ V</span></p>
+<div id="professor_prebid-root"></div></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Graph</code>&nbsp;
