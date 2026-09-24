@@ -219,6 +219,7 @@ Happy Coding! 🎯✨
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gunjanghate/DSA-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/gunjanghate/DSA-Daily/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
@@ -697,6 +698,7 @@ Happy Coding! 🎯✨
 | [3345-smallest-divisible-digit-product-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/3462-vowels-game-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gunjanghate/DSA-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gunjanghate/DSA-Daily/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
