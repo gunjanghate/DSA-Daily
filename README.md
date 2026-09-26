@@ -110,6 +110,7 @@ Happy Coding! 🎯✨
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/gunjanghate/DSA-Daily/tree/master/0994-rotting-oranges) |
@@ -468,6 +469,7 @@ Happy Coding! 🎯✨
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
@@ -664,6 +666,7 @@ Happy Coding! 🎯✨
 | [0788-rotated-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/gunjanghate/DSA-Daily/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
@@ -859,6 +862,7 @@ Happy Coding! 🎯✨
 | [0240-search-a-2d-matrix-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -918,6 +922,7 @@ Happy Coding! 🎯✨
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gunjanghate/DSA-Daily/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gunjanghate/DSA-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -974,6 +979,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Depth-First Search
 |  |
@@ -1440,8 +1446,13 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gunjanghate/DSA-Daily/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/gunjanghate/DSA-Daily/tree/master/1631-path-with-minimum-effort) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
