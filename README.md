@@ -758,6 +758,7 @@ Happy Coding! 🎯✨
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gunjanghate/DSA-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/gunjanghate/DSA-Daily/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gunjanghate/DSA-Daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1053,6 +1054,7 @@ Happy Coding! 🎯✨
 | [0907-sum-of-subarray-minimums](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gunjanghate/DSA-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gunjanghate/DSA-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1455,4 +1457,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/0973-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
