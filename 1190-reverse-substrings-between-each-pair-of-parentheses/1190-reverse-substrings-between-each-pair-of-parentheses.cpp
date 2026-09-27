@@ -2,42 +2,23 @@ class Solution {
 public:
     string reverseParentheses(string s) {
         int n = s.length();
-        stack<char> st;
+        stack<string> st;
 
-        for(int i = 0; i < n; i++) {
+        string curr;
 
-            if(s[i] == ')') {
-
-                string curr = "";
-
-                while(st.top() != '(') {
-                    curr += st.top();
-                    st.pop();
-                }
-
-
+        for(auto i : s){
+            if(i=='('){
+                st.push(curr);
+                curr.clear();
+            }else if(i==')'){
+                reverse(curr.begin(), curr.end());
+                curr = st.top() + curr;
                 st.pop();
-
-                cout << "curr is: " << curr << endl;
-
-                for(char ch : curr) {
-                    st.push(ch);
-                }
-
-            } else {
-                st.push(s[i]);
+            }else{
+                curr += i;
             }
         }
 
-        string ans = "";
-
-        while(!st.empty()) {
-            ans += st.top();
-            st.pop();
-        }
-
-        reverse(ans.begin(), ans.end());
-
-        return ans;
+        return curr;
     }
 };
