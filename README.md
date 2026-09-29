@@ -176,6 +176,7 @@ Happy Coding! 🎯✨
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gunjanghate/DSA-Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gunjanghate/DSA-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gunjanghate/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -285,6 +286,7 @@ Happy Coding! 🎯✨
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gunjanghate/DSA-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2262-solving-questions-with-brainpower](https://github.com/gunjanghate/DSA-Daily/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gunjanghate/DSA-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -638,6 +640,7 @@ Happy Coding! 🎯✨
 | [1791-richest-customer-wealth](https://github.com/gunjanghate/DSA-Daily/tree/master/1791-richest-customer-wealth) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2047-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gunjanghate/DSA-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/gunjanghate/DSA-Daily/tree/master/2737-row-with-maximum-ones) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gunjanghate/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1464,4 +1467,5 @@ Happy Coding! 🎯✨
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gunjanghate/DSA-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
