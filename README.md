@@ -729,6 +729,7 @@ Happy Coding! 🎯✨
 | [0012-integer-to-roman](https://github.com/gunjanghate/DSA-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gunjanghate/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gunjanghate/DSA-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/gunjanghate/DSA-Daily/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/gunjanghate/DSA-Daily/tree/master/0049-group-anagrams) |
@@ -1040,6 +1041,7 @@ Happy Coding! 🎯✨
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gunjanghate/DSA-Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/gunjanghate/DSA-Daily/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1467,6 +1469,7 @@ Happy Coding! 🎯✨
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
