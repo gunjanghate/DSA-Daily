@@ -247,6 +247,7 @@ Happy Coding! 🎯✨
 | [3876-transform-array-to-all-equal-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gunjanghate/DSA-Daily/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -613,6 +614,7 @@ Happy Coding! 🎯✨
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gunjanghate/DSA-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gunjanghate/DSA-Daily/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Union Find
 |  |
 | ------- |
@@ -968,6 +970,7 @@ Happy Coding! 🎯✨
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gunjanghate/DSA-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gunjanghate/DSA-Daily/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Enumeration
 |  |
 | ------- |
