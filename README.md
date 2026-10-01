@@ -246,6 +246,7 @@ Happy Coding! 🎯✨
 | [3875-construct-uniform-parity-array-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,6 +363,7 @@ Happy Coding! 🎯✨
 | [3612-process-string-with-special-operations-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/gunjanghate/DSA-Daily/tree/master/3838-weighted-word-mapping) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -518,6 +520,7 @@ Happy Coding! 🎯✨
 | [3634-minimum-removals-to-balance-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -609,6 +612,7 @@ Happy Coding! 🎯✨
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gunjanghate/DSA-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Union Find
 |  |
 | ------- |
@@ -939,6 +943,7 @@ Happy Coding! 🎯✨
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -962,6 +967,7 @@ Happy Coding! 🎯✨
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gunjanghate/DSA-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -1176,6 +1182,7 @@ Happy Coding! 🎯✨
 | [2023-design-movie-rental-system](https://github.com/gunjanghate/DSA-Daily/tree/master/2023-design-movie-rental-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gunjanghate/DSA-Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3790-fruits-into-baskets-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3790-fruits-into-baskets-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
 |  |
 | ------- |
