@@ -571,6 +571,7 @@ Happy Coding! 🎯✨
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gunjanghate/DSA-Daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1331-rank-transform-of-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gunjanghate/DSA-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/gunjanghate/DSA-Daily/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -772,6 +773,7 @@ Happy Coding! 🎯✨
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gunjanghate/DSA-Daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gunjanghate/DSA-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -956,6 +958,7 @@ Happy Coding! 🎯✨
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/gunjanghate/DSA-Daily/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
