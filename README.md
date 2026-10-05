@@ -183,6 +183,7 @@ Happy Coding! 🎯✨
 | [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2364-count-number-of-bad-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gunjanghate/DSA-Daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gunjanghate/DSA-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -588,6 +589,7 @@ Happy Coding! 🎯✨
 | [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
+| [2364-count-number-of-bad-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2364-count-number-of-bad-pairs) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -700,6 +702,7 @@ Happy Coding! 🎯✨
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2364-count-number-of-bad-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2364-count-number-of-bad-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/gunjanghate/DSA-Daily/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gunjanghate/DSA-Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -965,6 +968,7 @@ Happy Coding! 🎯✨
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2364-count-number-of-bad-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2364-count-number-of-bad-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/gunjanghate/DSA-Daily/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
