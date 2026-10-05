@@ -765,6 +765,7 @@ Happy Coding! 🎯✨
 | [0678-valid-parenthesis-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/gunjanghate/DSA-Daily/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gunjanghate/DSA-Daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-long-pressed-name](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-long-pressed-name) |
@@ -1072,6 +1073,7 @@ Happy Coding! 🎯✨
 | [0678-valid-parenthesis-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/gunjanghate/DSA-Daily/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/gunjanghate/DSA-Daily/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/gunjanghate/DSA-Daily/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
@@ -1488,6 +1490,7 @@ Happy Coding! 🎯✨
 | [0020-valid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
