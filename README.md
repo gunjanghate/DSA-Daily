@@ -758,6 +758,7 @@ Happy Coding! 🎯✨
 | [0242-valid-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/gunjanghate/DSA-Daily/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/gunjanghate/DSA-Daily/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/gunjanghate/DSA-Daily/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/0402-remove-k-digits) |
@@ -1173,6 +1174,7 @@ Happy Coding! 🎯✨
 | [0131-palindrome-partitioning](https://github.com/gunjanghate/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/gunjanghate/DSA-Daily/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -1260,6 +1262,7 @@ Happy Coding! 🎯✨
 | [0199-binary-tree-right-side-view](https://github.com/gunjanghate/DSA-Daily/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/gunjanghate/DSA-Daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/gunjanghate/DSA-Daily/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/gunjanghate/DSA-Daily/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunjanghate/DSA-Daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
