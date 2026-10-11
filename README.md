@@ -284,6 +284,7 @@ Happy Coding! 🎯✨
 | [0877-stone-game](https://github.com/gunjanghate/DSA-Daily/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/gunjanghate/DSA-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
@@ -781,6 +782,7 @@ Happy Coding! 🎯✨
 | [1078-remove-outermost-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gunjanghate/DSA-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gunjanghate/DSA-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gunjanghate/DSA-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gunjanghate/DSA-Daily/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1520,4 +1522,8 @@ Happy Coding! 🎯✨
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gunjanghate/DSA-Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
