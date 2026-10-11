@@ -199,6 +199,7 @@ Happy Coding! 🎯✨
 | [2737-row-with-maximum-ones](https://github.com/gunjanghate/DSA-Daily/tree/master/2737-row-with-maximum-ones) |
 | [2751-robot-collisions](https://github.com/gunjanghate/DSA-Daily/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gunjanghate/DSA-Daily/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gunjanghate/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -998,6 +999,7 @@ Happy Coding! 🎯✨
 | [1291-sequential-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/gunjanghate/DSA-Daily/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
