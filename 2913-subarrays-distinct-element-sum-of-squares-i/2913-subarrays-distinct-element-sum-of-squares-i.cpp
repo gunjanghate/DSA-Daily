@@ -8,7 +8,8 @@ public:
             set<int> st;
             for (int j = i; j < n; j++) {
                 st.insert(nums[j]);
-                ans += st.size()*st.size();
+                int sq= st.size();
+                ans+= (sq*sq);
             }
         }
 
