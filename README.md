@@ -280,6 +280,7 @@ Happy Coding! 🎯✨
 | [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/gunjanghate/DSA-Daily/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -775,6 +776,7 @@ Happy Coding! 🎯✨
 | [0424-longest-repeating-character-replacement](https://github.com/gunjanghate/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/gunjanghate/DSA-Daily/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/gunjanghate/DSA-Daily/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/gunjanghate/DSA-Daily/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/gunjanghate/DSA-Daily/tree/master/0768-partition-labels) |
