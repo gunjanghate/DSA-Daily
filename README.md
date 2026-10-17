@@ -228,6 +228,7 @@ Happy Coding! 🎯✨
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gunjanghate/DSA-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/gunjanghate/DSA-Daily/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
@@ -527,6 +528,7 @@ Happy Coding! 🎯✨
 | [3430-count-days-without-meetings](https://github.com/gunjanghate/DSA-Daily/tree/master/3430-count-days-without-meetings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3634-minimum-removals-to-balance-array) |
@@ -612,6 +614,7 @@ Happy Coding! 🎯✨
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/gunjanghate/DSA-Daily/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/gunjanghate/DSA-Daily/tree/master/3606-coupon-code-validator) |
