@@ -291,6 +291,7 @@ Happy Coding! 🎯✨
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/gunjanghate/DSA-Daily/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gunjanghate/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/gunjanghate/DSA-Daily/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/gunjanghate/DSA-Daily/tree/master/1563-stone-game-v) |
@@ -798,6 +799,7 @@ Happy Coding! 🎯✨
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gunjanghate/DSA-Daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gunjanghate/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gunjanghate/DSA-Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gunjanghate/DSA-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
