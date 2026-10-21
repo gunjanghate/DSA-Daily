@@ -252,6 +252,7 @@ Happy Coding! 🎯✨
 | [3838-weighted-word-mapping](https://github.com/gunjanghate/DSA-Daily/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gunjanghate/DSA-Daily/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -538,6 +539,7 @@ Happy Coding! 🎯✨
 | [3634-minimum-removals-to-balance-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/3886-sum-of-sortable-integers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
@@ -750,6 +752,7 @@ Happy Coding! 🎯✨
 | [3830-find-closest-person](https://github.com/gunjanghate/DSA-Daily/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/gunjanghate/DSA-Daily/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -1030,6 +1033,7 @@ Happy Coding! 🎯✨
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
