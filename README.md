@@ -1055,6 +1055,7 @@ Happy Coding! 🎯✨
 | [0101-symmetric-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/gunjanghate/DSA-Daily/tree/master/0130-surrounded-regions) |
@@ -1103,6 +1104,7 @@ Happy Coding! 🎯✨
 | [0032-longest-valid-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gunjanghate/DSA-Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/gunjanghate/DSA-Daily/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/gunjanghate/DSA-Daily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/gunjanghate/DSA-Daily/tree/master/0225-implement-stack-using-queues) |
@@ -1167,6 +1169,7 @@ Happy Coding! 🎯✨
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gunjanghate/DSA-Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/gunjanghate/DSA-Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gunjanghate/DSA-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
@@ -1263,6 +1266,7 @@ Happy Coding! 🎯✨
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1331,6 +1335,7 @@ Happy Coding! 🎯✨
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjanghate/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
