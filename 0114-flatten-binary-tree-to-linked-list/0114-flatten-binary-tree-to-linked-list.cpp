@@ -13,21 +13,18 @@
 class Solution {
 public:
     void flatten(TreeNode* root) {
-        if (!root)
-            return;
-        vector<TreeNode*> nodes;
-        preorder(root, nodes);
-        for (int i = 0; i < nodes.size() - 1; i++) {
-            nodes[i]->left = nullptr;
-            nodes[i]->right = nodes[i + 1];
+        TreeNode* current = root;
+        while (current) {
+            if (current->left) {
+                TreeNode* temp = current->left;
+                while (temp->right) {
+                    temp = temp->right;
+                }
+                temp->right = current->right;
+                current->right = current->left;
+                current->left = nullptr;
+            }
+            current = current->right;
         }
-    }
-
-    void preorder(TreeNode* node, vector<TreeNode*>& nodes) {
-        if (!node)
-            return;
-        nodes.push_back(node);
-        preorder(node->left, nodes);
-        preorder(node->right, nodes);
     }
 };
