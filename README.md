@@ -254,6 +254,7 @@ Happy Coding! 🎯✨
 | [3838-weighted-word-mapping](https://github.com/gunjanghate/DSA-Daily/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -311,6 +312,7 @@ Happy Coding! 🎯✨
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -411,6 +413,7 @@ Happy Coding! 🎯✨
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gunjanghate/DSA-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -679,6 +682,7 @@ Happy Coding! 🎯✨
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
