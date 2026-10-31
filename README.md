@@ -241,6 +241,7 @@ Happy Coding! 🎯✨
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gunjanghate/DSA-Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3665-twisted-mirror-path-count](https://github.com/gunjanghate/DSA-Daily/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gunjanghate/DSA-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -311,6 +312,7 @@ Happy Coding! 🎯✨
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3665-twisted-mirror-path-count](https://github.com/gunjanghate/DSA-Daily/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -682,6 +684,7 @@ Happy Coding! 🎯✨
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gunjanghate/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/gunjanghate/DSA-Daily/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
