@@ -28,8 +28,49 @@ public:
     int uniquePaths(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<vector<int>>> dp(m, vector<vector<int>>(n, vector<int> (3, -1)));
+        vector<vector<vector<int>>> dp(m, vector<vector<int>>(n, vector<int> (3, 0)));
 
-        return solve(m , n , grid, 0, 0, 0, dp);
+        // return solve(m , n , grid, 0, 0, 0, dp);
+        
+        dp[m-1][n-1][0] = 1;
+        dp[m-1][n-1][1] = 1;
+        dp[m-1][n-1][2] = 1;
+
+        for (int i = m-1; i >= 0; i--) {
+            for (int j = n-1; j >= 0; j--) {
+
+                if (i == m-1 && j == n-1) continue;
+
+                for (int k = 0; k < 3; k++) {
+
+                    int right = 0;
+                    int down = 0;
+
+                    if (grid[i][j] == 0) {
+
+                        if (j+1 < n)
+                            right = dp[i][j+1][1];
+
+                        if (i+1 < m)
+                            down = dp[i+1][j][2];
+
+                    } 
+                    else {
+                        if (k == 1) {
+                            if (i+1 < m)
+                                down = dp[i+1][j][2];
+                        }
+                        else {
+                            if (j+1 < n)
+                                right = dp[i][j+1][1];
+                        }
+                    }
+
+                    dp[i][j][k] = (right + down) % MOD;
+                }
+            }
+        }
+
+        return dp[0][0][0];
     }
 };
