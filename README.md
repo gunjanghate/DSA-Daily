@@ -191,6 +191,7 @@ Happy Coding! 🎯✨
 | [2333-minimum-sum-of-squared-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2364-count-number-of-bad-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2364-count-number-of-bad-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gunjanghate/DSA-Daily/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gunjanghate/DSA-Daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gunjanghate/DSA-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -475,6 +476,7 @@ Happy Coding! 🎯✨
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gunjanghate/DSA-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/gunjanghate/DSA-Daily/tree/master/1732-find-the-highest-altitude) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gunjanghate/DSA-Daily/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/gunjanghate/DSA-Daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/gunjanghate/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -524,6 +526,7 @@ Happy Coding! 🎯✨
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gunjanghate/DSA-Daily/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gunjanghate/DSA-Daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
@@ -919,6 +922,7 @@ Happy Coding! 🎯✨
 | [2047-find-a-peak-element-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/2047-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gunjanghate/DSA-Daily/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -973,6 +977,7 @@ Happy Coding! 🎯✨
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gunjanghate/DSA-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/gunjanghate/DSA-Daily/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gunjanghate/DSA-Daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/gunjanghate/DSA-Daily/tree/master/2681-put-marbles-in-bags) |
