@@ -84,6 +84,7 @@ Happy Coding! 🎯✨
 | [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/gunjanghate/DSA-Daily/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0494-target-sum) |
@@ -494,6 +495,7 @@ Happy Coding! 🎯✨
 | [0435-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gunjanghate/DSA-Daily/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gunjanghate/DSA-Daily/tree/master/0645-set-mismatch) |
@@ -705,6 +707,7 @@ Happy Coding! 🎯✨
 | [0326-power-of-three](https://github.com/gunjanghate/DSA-Daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gunjanghate/DSA-Daily/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gunjanghate/DSA-Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/gunjanghate/DSA-Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gunjanghate/DSA-Daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
