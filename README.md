@@ -133,6 +133,7 @@ Happy Coding! 🎯✨
 | [1331-rank-transform-of-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gunjanghate/DSA-Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/gunjanghate/DSA-Daily/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gunjanghate/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -347,6 +348,7 @@ Happy Coding! 🎯✨
 | [0908-middle-of-the-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/gunjanghate/DSA-Daily/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gunjanghate/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -511,6 +513,7 @@ Happy Coding! 🎯✨
 | [1288-remove-covered-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gunjanghate/DSA-Daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gunjanghate/DSA-Daily/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -912,6 +915,7 @@ Happy Coding! 🎯✨
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gunjanghate/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gunjanghate/DSA-Daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
