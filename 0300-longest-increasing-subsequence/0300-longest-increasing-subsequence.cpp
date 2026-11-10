@@ -37,17 +37,36 @@ public:
 
         // return curr[-1+1];
 
-        vector<int> dp(n, 1);
+        // vector<int> dp(n, 1);
 
-        for(int i = 0; i<n; i++){
-            for(int prev = 0; prev < i; prev++){
-                if(nums[prev] < nums[i])
-                    dp[i] = max(dp[i], 1 + dp[prev]);
+        // for(int i = 0; i<n; i++){
+        //     for(int prev = 0; prev < i; prev++){
+        //         if(nums[prev] < nums[i])
+        //             dp[i] = max(dp[i], 1 + dp[prev]);
+        //     }
+        // }
+
+
+        // return *max_element(dp.begin(), dp.end());
+
+
+        // binary serach 
+
+        vector<int> temp;
+        int ans = 1;
+
+        temp.push_back(nums[0]);
+
+        for(int i = 1; i<n; i++){
+            if(temp.back()<nums[i]) temp.push_back(nums[i]), ans++;
+            else{
+                auto it = lower_bound(temp.begin(), temp.end(), nums[i]);
+
+                *it = nums[i];
             }
         }
 
-
-        return *max_element(dp.begin(), dp.end());
+        return ans;
 
 
     }
