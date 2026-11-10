@@ -22,16 +22,19 @@ public:
     int findKthLargest(vector<int>& nums, int k) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        priority_queue<int> pq;
-        k = nums.size() - k + 1;
-        for (int n : nums) {
-            if (pq.size() == k && pq.top() > n) {
-                pq.pop();
-            }
-            if (pq.size() < k) {
-                pq.push(n);
-            }
-        }
-        return pq.top();
+        // priority_queue<int> pq;
+        // k = nums.size() - k + 1;
+        // for (int n : nums) {
+        //     if (pq.size() == k && pq.top() > n) {
+        //         pq.pop();
+        //     }
+        //     if (pq.size() < k) {
+        //         pq.push(n);
+        //     }
+        // }
+        // return pq.top();
+        int n = nums.size();
+        nth_element(nums.begin(), nums.begin() + (n - k), nums.end());
+        return nums[n - k]; 
     }
 };
