@@ -455,6 +455,7 @@ Happy Coding! 🎯✨
 | [0966-binary-subarrays-with-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/gunjanghate/DSA-Daily/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gunjanghate/DSA-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gunjanghate/DSA-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -482,6 +483,7 @@ Happy Coding! 🎯✨
 | [0974-subarray-sums-divisible-by-k](https://github.com/gunjanghate/DSA-Daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/gunjanghate/DSA-Daily/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gunjanghate/DSA-Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gunjanghate/DSA-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -841,6 +843,7 @@ Happy Coding! 🎯✨
 | [1143-longest-common-subsequence](https://github.com/gunjanghate/DSA-Daily/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gunjanghate/DSA-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gunjanghate/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1208-get-equal-substrings-within-budget](https://github.com/gunjanghate/DSA-Daily/tree/master/1208-get-equal-substrings-within-budget) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gunjanghate/DSA-Daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gunjanghate/DSA-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -928,6 +931,7 @@ Happy Coding! 🎯✨
 | [0907-koko-eating-bananas](https://github.com/gunjanghate/DSA-Daily/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunjanghate/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gunjanghate/DSA-Daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/gunjanghate/DSA-Daily/tree/master/1208-get-equal-substrings-within-budget) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gunjanghate/DSA-Daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/gunjanghate/DSA-Daily/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
