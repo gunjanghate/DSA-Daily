@@ -220,6 +220,7 @@ Happy Coding! 🎯✨
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gunjanghate/DSA-Daily/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gunjanghate/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gunjanghate/DSA-Daily/tree/master/3074-apple-redistribution-into-boxes) |
@@ -324,6 +325,7 @@ Happy Coding! 🎯✨
 | [2304-minimum-path-cost-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gunjanghate/DSA-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gunjanghate/DSA-Daily/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3665-twisted-mirror-path-count](https://github.com/gunjanghate/DSA-Daily/tree/master/3665-twisted-mirror-path-count) |
@@ -559,6 +561,7 @@ Happy Coding! 🎯✨
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gunjanghate/DSA-Daily/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gunjanghate/DSA-Daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gunjanghate/DSA-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gunjanghate/DSA-Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
