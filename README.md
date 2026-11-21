@@ -233,6 +233,7 @@ Happy Coding! 🎯✨
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3321-type-of-triangle) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -658,6 +659,7 @@ Happy Coding! 🎯✨
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gunjanghate/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -900,6 +902,7 @@ Happy Coding! 🎯✨
 | [3120-count-the-number-of-special-characters-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/gunjanghate/DSA-Daily/tree/master/3194-find-words-containing-character) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gunjanghate/DSA-Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/gunjanghate/DSA-Daily/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/gunjanghate/DSA-Daily/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -1157,6 +1160,7 @@ Happy Coding! 🎯✨
 | [2685-count-the-number-of-complete-components](https://github.com/gunjanghate/DSA-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3310-remove-methods-from-project](https://github.com/gunjanghate/DSA-Daily/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gunjanghate/DSA-Daily/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
@@ -1359,6 +1363,7 @@ Happy Coding! 🎯✨
 | [2196-create-binary-tree-from-descriptions](https://github.com/gunjanghate/DSA-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gunjanghate/DSA-Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/gunjanghate/DSA-Daily/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
