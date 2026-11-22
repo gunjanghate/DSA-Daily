@@ -881,6 +881,7 @@ Happy Coding! 🎯✨
 | [1980-find-unique-binary-string](https://github.com/gunjanghate/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gunjanghate/DSA-Daily/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2032-largest-odd-number-in-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2032-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gunjanghate/DSA-Daily/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2211-count-collisions-on-a-road](https://github.com/gunjanghate/DSA-Daily/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gunjanghate/DSA-Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
