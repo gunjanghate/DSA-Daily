@@ -272,6 +272,7 @@ Happy Coding! 🎯✨
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gunjanghate/DSA-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3934-smallest-unique-subarray) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gunjanghate/DSA-Daily/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Dynamic Programming
@@ -678,6 +679,7 @@ Happy Coding! 🎯✨
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gunjanghate/DSA-Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gunjanghate/DSA-Daily/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3934-smallest-unique-subarray) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gunjanghate/DSA-Daily/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gunjanghate/DSA-Daily/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Union Find
@@ -969,6 +971,7 @@ Happy Coding! 🎯✨
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/gunjanghate/DSA-Daily/tree/master/3790-fruits-into-baskets-ii) |
+| [3934-smallest-unique-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1473,6 +1476,7 @@ Happy Coding! 🎯✨
 | [0187-repeated-dna-sequences](https://github.com/gunjanghate/DSA-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -1480,6 +1484,7 @@ Happy Coding! 🎯✨
 | [0572-subtree-of-another-tree](https://github.com/gunjanghate/DSA-Daily/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gunjanghate/DSA-Daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3934-smallest-unique-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1651,4 +1656,8 @@ Happy Coding! 🎯✨
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/gunjanghate/DSA-Daily/tree/master/0127-word-ladder) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
