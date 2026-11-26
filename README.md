@@ -236,6 +236,7 @@ Happy Coding! 🎯✨
 | [3331-find-subtree-sizes-after-changes](https://github.com/gunjanghate/DSA-Daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gunjanghate/DSA-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gunjanghate/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/gunjanghate/DSA-Daily/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -476,6 +477,7 @@ Happy Coding! 🎯✨
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gunjanghate/DSA-Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gunjanghate/DSA-Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gunjanghate/DSA-Daily/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gunjanghate/DSA-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/gunjanghate/DSA-Daily/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -787,6 +789,7 @@ Happy Coding! 🎯✨
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/gunjanghate/DSA-Daily/tree/master/3321-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gunjanghate/DSA-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3462-vowels-game-in-a-string](https://github.com/gunjanghate/DSA-Daily/tree/master/3462-vowels-game-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/gunjanghate/DSA-Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gunjanghate/DSA-Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -1100,6 +1103,7 @@ Happy Coding! 🎯✨
 | [2998-count-symmetric-integers](https://github.com/gunjanghate/DSA-Daily/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gunjanghate/DSA-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/gunjanghate/DSA-Daily/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gunjanghate/DSA-Daily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1266,6 +1270,7 @@ Happy Coding! 🎯✨
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/gunjanghate/DSA-Daily/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gunjanghate/DSA-Daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gunjanghate/DSA-Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gunjanghate/DSA-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
