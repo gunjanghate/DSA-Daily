@@ -202,6 +202,7 @@ Happy Coding! 🎯✨
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gunjanghate/DSA-Daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gunjanghate/DSA-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/gunjanghate/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
@@ -474,6 +475,7 @@ Happy Coding! 🎯✨
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gunjanghate/DSA-Daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/gunjanghate/DSA-Daily/tree/master/1813-maximum-erasure-value) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gunjanghate/DSA-Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/gunjanghate/DSA-Daily/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gunjanghate/DSA-Daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -656,6 +658,7 @@ Happy Coding! 🎯✨
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gunjanghate/DSA-Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/gunjanghate/DSA-Daily/tree/master/2215-finding-3-digit-even-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/gunjanghate/DSA-Daily/tree/master/2364-count-number-of-bad-pairs) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/gunjanghate/DSA-Daily/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gunjanghate/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/gunjanghate/DSA-Daily/tree/master/2747-count-zero-request-servers) |
