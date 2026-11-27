@@ -1,9 +1,8 @@
 class ProductOfNumbers {
 public:
-    vector<int> streams;
+    // vector<int> streams;
     vector<int> pds; // prefix products
     ProductOfNumbers() {
-        this->streams = vector<int>();
     }
 
     
